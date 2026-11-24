@@ -1,0 +1,6 @@
+{
+  "name": "کاتالوگ هوشمند کارتن محمد",
+  "description": "کاتالوگ هوشمند و تعاملی شرکت کارتن محمد، تولیدکننده تخصصی انواع جعبه، کارتن ۳ و ۵ لایه و ورق کارتن با فلوت‌های E, B, C, CB, CE, BE",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

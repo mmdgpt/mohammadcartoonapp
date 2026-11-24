@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">کاتالوگ هوشمند کارتن محمد</string>
+    <string name="cd_back_button">بازگشت</string>
+    <string name="cd_menu_button">فهرست کاتالوگ</string>
+    <string name="cd_search_button">جست‌وجوی محصول</string>
+    <string name="cd_share_button">اشتراک‌گذاری</string>
+    <string name="cd_admin_button">پنل مدیریت</string>
+    <string name="cd_close_dialog">بستن پنجره</string>
+    <string name="cd_brand_logo">لوگوی شرکت کارتن محمد</string>
+    <string name="cd_zoom_image">بزرگنمایی تصویر</string>
+    <string name="cd_map_navigation">مسیریابی روی نقشه</string>
+    <string name="cd_direct_call">تماس تلفنی</string>
+</resources>

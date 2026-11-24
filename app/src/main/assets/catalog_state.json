@@ -1,0 +1,2347 @@
+{
+  "elements": {
+    "headerTitle": "کاتالوگ هوشمند شرکت کارتن محمد",
+    "headerSubtitle": "روی دکمه‌های داخل کاتالوگ بزنید",
+    "logoUrl": "drawable://brand_logo",
+    "cover": {
+      "heroTitle": "کاتالوگ محصولات شرکت کارتن محمد",
+      "heroImage": "drawable://catalog_heroimage_1",
+      "badgeRight": "کیفیت صادراتی و صنعتی",
+      "badgeLeft": "FEFCO STANDARD",
+      "features": [
+        "تولید سفارشی تیراژ بالا",
+        "کاغذ و ورق استاندارد",
+        "سبد کامل جعبه و کارتن",
+        "ارسال سریع سراسر کشور"
+      ],
+      "startButtonText": "شروع کاتالوگ",
+      "aboutButtonText": "درباره ما",
+      "contactButtonText": "تماس با ما",
+      "copyrightText": "© کلیهٔ محتوای این کاتالوگ متعلق به شرکت کارتن محمد می‌باشد."
+    },
+    "menu": {
+      "promptText": "بر روی گزینهٔ مورد نظر خود کلیک کنید :",
+      "aboutLabel": "دربارهٔ ما",
+      "productsLabel": "محصولات",
+      "searchLabel": "جست‌وجوی محصول",
+      "contactLabel": "تماس با ما",
+      "showAbout": true,
+      "showProducts": true,
+      "showSearch": false,
+      "showContact": true,
+      "footerText": "SMART PACKAGING CATALOG · MOHAMMAD CARTON"
+    },
+    "groupsPage": {
+      "title": "محصولات",
+      "promptText": "بر روی گزینهٔ مورد نظر خود کلیک کنید :",
+      "ctaButtonText": "مشاهدهٔ محصولات",
+      "footerText": "کارتن محمد",
+      "allGroupsButtonText": "همه گروه‌ها",
+      "groupDetailHintText": "برای مشاهده جزئیات روی محصول کلیک کنید"
+    },
+    "productPage": {
+      "diagramTabLabel": "شماتیک فنی",
+      "photoTabLabel": "تصویر نمونه",
+      "specLabels": {
+        "grammage": "گرماژ / ترکیب کاغذ",
+        "thickness": "ضخامت ورق (mm)",
+        "weightCapacity": "تحمل وزن / مقاومت",
+        "dimensions": "ابعاد استاندارد (mm)",
+        "printType": "نوع چاپ و خدمات",
+        "minOrder": "حداقل تیراژ سفارش",
+        "jointType": "ساختار و نحوه اتصال:"
+      },
+      "orderButtonText": "ثبت سفارش",
+      "consultButtonText": "درخواست مشاوره",
+      "fullTableButtonText": "جدول کامل",
+      "specsButtonText": "مشخصات",
+      "nextButtonText": "بعدی",
+      "prevButtonText": "قبلی",
+      "messengers": {
+        "whatsapp": false,
+        "eitaa": true,
+        "rubika": true
+      }
+    },
+    "aboutPage": {
+      "title": "دربارهٔ ما",
+      "aboutText": "کارتن محمد، در سال ۱۳۸۰ به تناسب نیاز بازار برای بسته بندی ، با یک واحد کارتــن سازی ، فعالیت خود را در دزفول آغاز نمود.در مدت زمان کوتاهی بدلیل کیفیت بالا ، سرعت در زمان تحویل و رضایتمندی مشتریان ؛ سیل تقاضای بازار هدف ، ما را بر آن داشت تا گام بزرگی در جهت خودکفایی برداشته و صنایع مادر را راه اندازی کنیم.اکنون کارتن محمد ، مجموعه ای از واحدهای کاغذسازی ، ورق سازی ، کارتن سازی و جعبه سازی را در اختیار دارد که با داشتـــــن خطوط تولیدی با تکنولوژی روز دنیا در هرواحد ، از منحصربفردترین مجموعــــه های صــنــــــایع سلولزی کشور می باشد.  کارتــــــن محمد با توکل بر خدا و با پشتوانـــــه ی منــــابع انســـــــانـــی و مشتریان وفادار هرروز مصمّم تر از دیـــروز در جهت خدمت رسانی به هموطنان گام برمیدارد.",
+      "awardsTitle": "افتخارات و دستاوردها",
+      "bottomLinkText": "مشاهده محصولات کارتن محمد"
+    },
+    "contactPage": {
+      "title": "تماس با ما",
+      "subtitle": "کارشناسان ما در اولین فرصت پاسخگوی شما خواهند بود",
+      "phoneLabel": "شماره تماس کارخانه",
+      "phoneFormatted": "۰۶۱-۴۲۲۰۲۰۴۰",
+      "phoneTel": "06142202040",
+      "salesMobileLabel": "شماره مستقیم واحد فروش",
+      "mobileDisplay": "۰۹۳۹۶۴۱۰۲۷۶",
+      "mobileTel": "09396410276",
+      "whatsappLabel": "واتساپ واحد فروش",
+      "whatsappNumber": "989396410276",
+      "websiteLabel": "وب‌سایت رسمی",
+      "website": "mohammadcarton.com",
+      "websiteUrl": "https://www.mohammadcarton.com",
+      "departmentsTitle": "ارتباط با دیگر واحدها:",
+      "addressTitle": "دفتر مرکزی و کارخانه (مسیریابی روی نقشه)",
+      "address": "دزفول، شهرک صنعتی شماره یک، خیابان چهارم",
+      "mapUrl": "https://maps.google.com/?cid=13330582876234232006",
+      "directCallButtonText": "تماس مستقیم با کارخانه"
+    }
+  },
+  "groups": [
+    {
+      "id": "boxes",
+      "numericId": 1,
+      "title": "انواع جعبه",
+      "subtitle": "استندی، لاک‌باتم، ته‌قفلی، کیبوردی، فانتزی، درب دارویی، هولدر، سینی و کفی · ۸ سری",
+      "seriesCountLabel": "۸ سری محصول",
+      "image": "drawable://catalog_image_2",
+      "accentLabel": "FEFCO 04 / 07",
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "cartons",
+      "numericId": 2,
+      "title": "انواع کارتن (۳ لایه و ۵ لایه)",
+      "subtitle": "معمولی و دایکاتی، پستی، ذغال، میوه و صیفی‌جات، خرما و صادراتی · ۶ سری",
+      "seriesCountLabel": "۶ سری محصول",
+      "image": "drawable://cat_cartons_showcase",
+      "accentLabel": "FEFCO 02 / 03",
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "sheets",
+      "numericId": 3,
+      "title": "انواع ورق کارتن (فلوت‌های تخصصی)",
+      "subtitle": "ورق‌های ۳ لایه و ۵ لایه با فلوت‌های E, B, C, CB, CE, BE · ۶ سری",
+      "seriesCountLabel": "۶ سری محصول",
+      "image": "drawable://cat_sheets_flutes",
+      "accentLabel": "E · B · C · CB · CE · BE",
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    }
+  ],
+  "products": [
+    {
+      "id": "custom-prod-9595",
+      "groupId": "cartons",
+      "groupTitle": "انواع کارتن",
+      "name": "کارتن لوازم الکتریکی و الکترونیکی",
+      "shortSubtitle": "تولید سفارشی با ابعاد و چاپ اختصاصی",
+      "technicalCode": "FEFCO CUSTOM-9595",
+      "badgeText": "تولید اختصاصی",
+      "image": "drawable://cat_boxes_showcase",
+      "diagramType": "stand",
+      "variantPromptLabel": "تیپ و ساختار محصول را انتخاب کنید",
+      "description": "این محصول با بهره‌گیری از خطوط مدرن ورق‌سازی، کارتن‌سازی و جعبه‌سازی شرکت کارتن محمد در ابعاد و ترکیب کاغذ دلخواه مشتری تولید می‌گردد.",
+      "applications": [
+        "بسته‌بندی صنعتی و صادراتی",
+        "محافظت کامل در برابر ضربه و فشار چیدمان"
+      ],
+      "structuralFeatures": [
+        "تولید با ورق و کاغذ استاندارد با استحکام بالا",
+        "قابلیت چاپ فلکسو و افست لمینتی"
+      ],
+      "paperCombinations": [
+        "تست‌لاینر + فلوت سمی‌کمیکال",
+        "کرافت وارداتی صادراتی"
+      ],
+      "whatsappNumber": "989396410276",
+      "variants": [
+        {
+          "id": "var-9595-1",
+          "label": "تیپ استاندارد ۱",
+          "subLabel": "۳ لایه · B فلوت",
+          "specs": {
+            "grammage": "۴۵۰ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر",
+            "weightCapacity": "۸ کیلوگرم",
+            "dimensions": "۳۰۰×۲۰۰×۲۰۰",
+            "printType": "فلکسو یا افست لمینتی",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "چسب صنعتی / دایکات"
+          },
+          "unitBasePriceToman": 18500
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "custom-prod-1819",
+      "groupId": "cartons",
+      "groupTitle": "انواع کارتن",
+      "name": "کارتن ظروف",
+      "shortSubtitle": "تولید سفارشی با ابعاد و چاپ اختصاصی",
+      "technicalCode": "FEFCO CUSTOM-1819",
+      "badgeText": "تولید اختصاصی",
+      "image": "drawable://cat_boxes_showcase",
+      "diagramType": "stand",
+      "variantPromptLabel": "تیپ و ساختار محصول را انتخاب کنید",
+      "description": "این محصول با بهره‌گیری از خطوط مدرن ورق‌سازی، کارتن‌سازی و جعبه‌سازی شرکت کارتن محمد در ابعاد و ترکیب کاغذ دلخواه مشتری تولید می‌گردد.",
+      "applications": [
+        "بسته‌بندی صنعتی و صادراتی",
+        "محافظت کامل در برابر ضربه و فشار چیدمان"
+      ],
+      "structuralFeatures": [
+        "تولید با ورق و کاغذ استاندارد با استحکام بالا",
+        "قابلیت چاپ فلکسو و افست لمینتی"
+      ],
+      "paperCombinations": [
+        "تست‌لاینر + فلوت سمی‌کمیکال",
+        "کرافت وارداتی صادراتی"
+      ],
+      "whatsappNumber": "989396410276",
+      "variants": [
+        {
+          "id": "var-1819-1",
+          "label": "تیپ استاندارد ۱",
+          "subLabel": "۳ لایه · B فلوت",
+          "specs": {
+            "grammage": "۴۵۰ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر",
+            "weightCapacity": "۸ کیلوگرم",
+            "dimensions": "۳۰۰×۲۰۰×۲۰۰",
+            "printType": "فلکسو یا افست لمینتی",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "چسب صنعتی / دایکات"
+          },
+          "unitBasePriceToman": 18500
+        },
+        {
+          "id": "var-1819-2",
+          "label": "تیپ تقویت‌شده ۲",
+          "subLabel": "۵ لایه · CB/BE فلوت",
+          "specs": {
+            "grammage": "۷۲۰ گرم بر مترمربع",
+            "thickness": "۵.۵ میلی‌متر",
+            "weightCapacity": "۱۸ کیلوگرم",
+            "dimensions": "۴۰۰×۳۰۰×۲۵۰",
+            "printType": "چاپ اختصاصی تا ۴ رنگ",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "اتصال تقویت‌شده صادراتی"
+          },
+          "unitBasePriceToman": 32000
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "custom-prod-5267",
+      "groupId": "cartons",
+      "groupTitle": "انواع کارتن",
+      "name": "کارتن خشکبار",
+      "shortSubtitle": "تولید سفارشی با ابعاد و چاپ اختصاصی",
+      "technicalCode": "FEFCO CUSTOM-5267",
+      "badgeText": "تولید اختصاصی",
+      "image": "drawable://cat_boxes_showcase",
+      "diagramType": "stand",
+      "variantPromptLabel": "تیپ و ساختار محصول را انتخاب کنید",
+      "description": "این محصول با بهره‌گیری از خطوط مدرن ورق‌سازی، کارتن‌سازی و جعبه‌سازی شرکت کارتن محمد در ابعاد و ترکیب کاغذ دلخواه مشتری تولید می‌گردد.",
+      "applications": [
+        "بسته‌بندی صنعتی و صادراتی",
+        "محافظت کامل در برابر ضربه و فشار چیدمان"
+      ],
+      "structuralFeatures": [
+        "تولید با ورق و کاغذ استاندارد با استحکام بالا",
+        "قابلیت چاپ فلکسو و افست لمینتی"
+      ],
+      "paperCombinations": [
+        "تست‌لاینر + فلوت سمی‌کمیکال",
+        "کرافت وارداتی صادراتی"
+      ],
+      "whatsappNumber": "989396410276",
+      "variants": [
+        {
+          "id": "var-5267-1",
+          "label": "تیپ استاندارد ۱",
+          "subLabel": "۳ لایه · B فلوت",
+          "specs": {
+            "grammage": "۴۵۰ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر",
+            "weightCapacity": "۸ کیلوگرم",
+            "dimensions": "۳۰۰×۲۰۰×۲۰۰",
+            "printType": "فلکسو یا افست لمینتی",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "چسب صنعتی / دایکات"
+          },
+          "unitBasePriceToman": 18500
+        },
+        {
+          "id": "var-5267-2",
+          "label": "تیپ تقویت‌شده ۲",
+          "subLabel": "۵ لایه · CB/BE فلوت",
+          "specs": {
+            "grammage": "۷۲۰ گرم بر مترمربع",
+            "thickness": "۵.۵ میلی‌متر",
+            "weightCapacity": "۱۸ کیلوگرم",
+            "dimensions": "۴۰۰×۳۰۰×۲۵۰",
+            "printType": "چاپ اختصاصی تا ۴ رنگ",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "اتصال تقویت‌شده صادراتی"
+          },
+          "unitBasePriceToman": 32000
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "custom-prod-6043",
+      "groupId": "boxes",
+      "groupTitle": "انواع جعبه",
+      "name": "جعبه پیتزا",
+      "shortSubtitle": "تولید سفارشی با ابعاد و چاپ اختصاصی",
+      "technicalCode": "FEFCO CUSTOM-6043",
+      "badgeText": "تولید اختصاصی",
+      "image": "drawable://cat_boxes_showcase",
+      "diagramType": "stand",
+      "variantPromptLabel": "تیپ و ساختار محصول را انتخاب کنید",
+      "description": "این محصول با بهره‌گیری از خطوط مدرن ورق‌سازی، کارتن‌سازی و جعبه‌سازی شرکت کارتن محمد در ابعاد و ترکیب کاغذ دلخواه مشتری تولید می‌گردد.",
+      "applications": [
+        "بسته‌بندی صنعتی و صادراتی",
+        "محافظت کامل در برابر ضربه و فشار چیدمان"
+      ],
+      "structuralFeatures": [
+        "تولید با ورق و کاغذ استاندارد با استحکام بالا",
+        "قابلیت چاپ فلکسو و افست لمینتی"
+      ],
+      "paperCombinations": [
+        "تست‌لاینر + فلوت سمی‌کمیکال",
+        "کرافت وارداتی صادراتی"
+      ],
+      "whatsappNumber": "989396410276",
+      "variants": [
+        {
+          "id": "var-6043-1",
+          "label": "تیپ استاندارد ۱",
+          "subLabel": "۳ لایه · B فلوت",
+          "specs": {
+            "grammage": "۴۵۰ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر",
+            "weightCapacity": "۸ کیلوگرم",
+            "dimensions": "۳۰۰×۲۰۰×۲۰۰",
+            "printType": "فلکسو یا افست لمینتی",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "چسب صنعتی / دایکات"
+          },
+          "unitBasePriceToman": 18500
+        },
+        {
+          "id": "var-6043-2",
+          "label": "تیپ تقویت‌شده ۲",
+          "subLabel": "۵ لایه · CB/BE فلوت",
+          "specs": {
+            "grammage": "۷۲۰ گرم بر مترمربع",
+            "thickness": "۵.۵ میلی‌متر",
+            "weightCapacity": "۱۸ کیلوگرم",
+            "dimensions": "۴۰۰×۳۰۰×۲۵۰",
+            "printType": "چاپ اختصاصی تا ۴ رنگ",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "اتصال تقویت‌شده صادراتی"
+          },
+          "unitBasePriceToman": 32000
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "box-stand",
+      "groupId": "boxes",
+      "groupTitle": "انواع جعبه",
+      "name": "جعبه استندی",
+      "shortSubtitle": "پرفراژدار و استند رومیزی فروشگاهی",
+      "technicalCode": "FEFCO 0426 · POS",
+      "badgeText": "نمایشگاهی و شلف",
+      "image": "drawable://cat_boxes_showcase",
+      "diagramType": "stand",
+      "variantPromptLabel": "تیپ و ساختار استند را انتخاب کنید",
+      "description": "جعبه استندی (Display & Shelf-Ready Box) با خط پرفراژ دقیق یا تاج تبلیغاتی تاشو، ابتدا نقش کارتن محافظ در حمل‌ونقل را ایفا کرده و در فروشگاه با یک حرکت به استند نمایش محصول روی پیشخوان تبدیل می‌شود.",
+      "applications": [
+        "محصولات غذایی، شکلات، اسنک و خشکبار تک‌نفره",
+        "لوازم آرایشی، بهداشتی و داروخانه‌ای روی کانتر",
+        "قطعات الکتریکی، چسب، باتری و ابزارآلات مصرفی"
+      ],
+      "structuralFeatures": [
+        "خطوط پرفراژ مهندسی‌شده برای جداسازی آسان درب بدون پارگی بدنه",
+        "تاج (Header) برجسته با قابلیت چاپ افست چهاررنگ و سلفون‌بندی",
+        "قابلیت تولید با ورق ای‌فلوت (E) یا بی‌فلوت (B) لمینتی"
+      ],
+      "paperCombinations": [
+        "پشت‌طوسی ۲۵۰ گرم لمینت روی E-Flute",
+        "کرافت سفید وارداتی + فلوت ۱۲۵ گرم",
+        "مقوای ایندربرد ۳۰۰ تا ۳۵۰ گرم"
+      ],
+      "variants": [
+        {
+          "id": "stand-counter-s",
+          "label": "استند رومیزی",
+          "subLabel": "کوچک · E فلوت",
+          "specs": {
+            "grammage": "۴۸۰ گرم بر مترمربع",
+            "thickness": "۱.۵ میلی‌متر (فلوت E)",
+            "weightCapacity": "۳.۵ کیلوگرم",
+            "dimensions": "۲۰۰×۱۵۰×۱۸۰",
+            "printType": "افست ۴ رنگ + سلفون براق",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "دایکات قفلی + پرفراژ"
+          },
+          "unitBasePriceToman": 14500,
+          "specsVisibility": {
+            "grammage": true,
+            "minOrder": true
+          }
+        },
+        {
+          "id": "stand-counter-m",
+          "label": "استند پرفراژدار",
+          "subLabel": "متوسط · E فلوت",
+          "specs": {
+            "grammage": "۵۲۰ گرم بر مترمربع",
+            "thickness": "۱.۶ میلی‌متر (فلوت E)",
+            "weightCapacity": "۶ کیلوگرم",
+            "dimensions": "۲۸۰×۲۰۰×۲۲۰",
+            "printType": "افست لمینتی + یووی موضعی",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "چسب بغل + خط پرفراژ"
+          },
+          "unitBasePriceToman": 19800,
+          "enabled": true
+        },
+        {
+          "id": "stand-shelf-l",
+          "label": "استند شلف فروشگاهی",
+          "subLabel": "بزرگ · B فلوت",
+          "specs": {
+            "grammage": "۵۹۰ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر (فلوت B)",
+            "weightCapacity": "۱۰ کیلوگرم",
+            "dimensions": "۳۵۰×۲۵۰×۲۶۰",
+            "printType": "لمینت افست یا فلکسو کلیشه‌ای",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "دایکات ته‌قفلی + پرفراژ"
+          },
+          "unitBasePriceToman": 26400
+        },
+        {
+          "id": "stand-stepped",
+          "label": "استند طبقاتی",
+          "subLabel": "۲ طبقه · BE فلوت",
+          "specs": {
+            "grammage": "۷۸۰ گرم بر مترمربع",
+            "thickness": "۴.۵ میلی‌متر (فلوت BE)",
+            "weightCapacity": "۱۶ کیلوگرم",
+            "dimensions": "۴۰۰×۳۰۰×۳۵۰",
+            "printType": "افست اختصاصی + روکش مات",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "قفل متقاطع + مقسم طبقاتی"
+          },
+          "unitBasePriceToman": 42000
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "box-lock-bottom",
+      "groupId": "boxes",
+      "groupTitle": "انواع جعبه",
+      "name": "جعبه لاک باتم",
+      "shortSubtitle": "کف قفل اتوماتیک با چسب سه‌نقطه‌ای",
+      "technicalCode": "FEFCO 0713",
+      "badgeText": "مونتاژ سریع خط تولید",
+      "image": "drawable://cat_boxes_showcase",
+      "diagramType": "lock-bottom",
+      "variantPromptLabel": "تیپ جعبه لاک‌باتم را انتخاب کنید",
+      "description": "جعبه لاک باتم (Auto-Lock Bottom / Crash Lock) در کارخانه از سه نقطه چسب‌کاری می‌شود و به‌صورت تخت ارسال می‌گردد. در خط بسته‌بندی تنها با فشار دو لبه، کف جعبه به‌صورت خودکار قفل و آماده بارگذاری می‌شود.",
+      "applications": [
+        "ظروف شیشه‌ای، عسل، مربا، سس و بطری‌های سنگین",
+        "قطعات خودرو، بلبرینگ، شیرآلات و تجهیزات صنعتی",
+        "بسته‌بندی محصولات صادراتی با سرعت خط تولید بالا"
+      ],
+      "structuralFeatures": [
+        "کاهش ۷۰ درصدی زمان مونتاژ کارتن در خط بسته‌بندی کارخانه",
+        "تحمل وزن فوق‌العاده در بخش کف به دلیل هم‌پوشانی چهار لبه چسب‌دار",
+        "قابلیت اجرا روی مقوای گرم بالا و ورق ای‌فلوت و بی‌فلوت لمینتی"
+      ],
+      "paperCombinations": [
+        "مقوای پشت‌طوسی ۳۰۰ گرم + لمینت E-Flute",
+        "تست‌لاینر قهوه‌ای + فلوت سمی‌کمیکال",
+        "ایندربرد ۳۵۰ گرم با چسب گرم صنعتی"
+      ],
+      "variants": [
+        {
+          "id": "lb-cardboard",
+          "label": "مقوایی ایندربرد",
+          "subLabel": "۳۵۰ گرم · دارویی/آرایشی",
+          "specs": {
+            "grammage": "۳۵۰ گرم بر مترمربع",
+            "thickness": "۰.۵۵ میلی‌متر",
+            "weightCapacity": "۱.۸ کیلوگرم",
+            "dimensions": "۱۲۰×۸۰×۱۸۰",
+            "printType": "افست ۴ رنگ + طلاکوب",
+            "minOrder": "۲٬۰۰۰ عدد",
+            "jointType": "چسب ۳ نقطه‌ای اتوماتیک"
+          },
+          "unitBasePriceToman": 9200
+        },
+        {
+          "id": "lb-eflute",
+          "label": "لمینتی ای‌فلوت",
+          "subLabel": "۳ لایه ظریف · E فلوت",
+          "specs": {
+            "grammage": "۵۱۰ گرم بر مترمربع",
+            "thickness": "۱.۶ میلی‌متر (فلوت E)",
+            "weightCapacity": "۵ کیلوگرم",
+            "dimensions": "۱۸۰×۱۴۰×۲۴۰",
+            "printType": "افست لمینتی + سلفون مات",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "چسب ۳ نقطه‌ای لاک‌باتم"
+          },
+          "unitBasePriceToman": 16800
+        },
+        {
+          "id": "lb-bflute",
+          "label": "صنعتی بی‌فلوت",
+          "subLabel": "۳ لایه مقاوم · B فلوت",
+          "specs": {
+            "grammage": "۶۲۰ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر (فلوت B)",
+            "weightCapacity": "۹ کیلوگرم",
+            "dimensions": "۲۵۰×۲۰۰×۳۰۰",
+            "printType": "لمینت افست یا فلکسو",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "قفل اتوماتیک کف + درب دارویی"
+          },
+          "unitBasePriceToman": 24500
+        },
+        {
+          "id": "lb-beflute",
+          "label": "فوق‌سنگین ۵ لایه",
+          "subLabel": "۵ لایه · BE فلوت",
+          "specs": {
+            "grammage": "۸۴۰ گرم بر مترمربع",
+            "thickness": "۴.۵ میلی‌متر (فلوت BE)",
+            "weightCapacity": "۱۸ کیلوگرم",
+            "dimensions": "۳۲۰×۲۴۰×۳۵۰",
+            "printType": "لمینت افست مقاوم + ورنی",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "چسب صنعتی ۳ نقطه‌ای تقویت‌شده"
+          },
+          "unitBasePriceToman": 37500
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "box-snap-lock",
+      "groupId": "boxes",
+      "groupTitle": "انواع جعبه",
+      "name": "جعبه ته قفلی",
+      "shortSubtitle": "کف قفلی ۱-۲-۳ چهارگوش با استحکام بالا",
+      "technicalCode": "FEFCO 0215",
+      "badgeText": "تحمل وزن اقتصادی",
+      "image": "drawable://cat_boxes_showcase",
+      "diagramType": "snap-lock",
+      "variantPromptLabel": "مدل جعبه ته‌قفلی را انتخاب کنید",
+      "description": "جعبه ته‌قفلی (۱-۲-۳ Snap Lock Bottom) دارای یک چسب طولی در بغل بوده و چهار لبهٔ کف آن با قفل مکانیکی در هم چفت می‌شوند. گزینه‌ای بسیار اقتصادی و مستحکم برای محصولات نیمه‌سنگین و سنگین است.",
+      "applications": [
+        "بسته‌بندی قطعات الکتریکی، لوستر، لامپ و کلید و پریز",
+        "محصولات خانگی، ظروف چینی، بلور و لوازم آشپزخانه",
+        "بسته‌بندی مواد غذایی، خرما، شیرینی و بطری‌های نوشیدنی"
+      ],
+      "structuralFeatures": [
+        "قفل مکانیکی ۴ تکه در کف بدون نیاز به نوارچسب زیر جعبه",
+        "هزینه قالب و چسب‌کاری پایین‌تر نسبت به لاک‌باتم اتوماتیک",
+        "مقاومت عالی در برابر باز شدن کف هنگام جابه‌جایی دستی"
+      ],
+      "paperCombinations": [
+        "ورق E-Flute سفید یا کرافت",
+        "ورق B-Flute لمینتی پشت‌طوسی",
+        "مقوای دوبلکس ۳۰۰ تا ۴۰۰ گرم"
+      ],
+      "variants": [
+        {
+          "id": "snap-small",
+          "label": "ته‌قفلی مقوایی",
+          "subLabel": "۳۰۰ گرم · سبک",
+          "specs": {
+            "grammage": "۳۰۰ گرم بر مترمربع",
+            "thickness": "۰.۴۸ میلی‌متر",
+            "weightCapacity": "۱.۵ کیلوگرم",
+            "dimensions": "۱۴۰×۱۰۰×۱۶۰",
+            "printType": "افست ۴ رنگ + ورنی چاپ",
+            "minOrder": "۲٬۰۰۰ عدد",
+            "jointType": "چسب بغل + کف قفلی ۱-۲-۳"
+          },
+          "unitBasePriceToman": 7800
+        },
+        {
+          "id": "snap-eflute",
+          "label": "ته‌قفلی ای‌فلوت",
+          "subLabel": "۳ لایه · E فلوت",
+          "specs": {
+            "grammage": "۴۹۰ گرم بر مترمربع",
+            "thickness": "۱.۵ میلی‌متر (فلوت E)",
+            "weightCapacity": "۴.۵ کیلوگرم",
+            "dimensions": "۲۰۰×۱۶۰×۲۲۰",
+            "printType": "لمینت افست ۴ رنگ",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "چسب بغل + قفل چهارگوش کف"
+          },
+          "unitBasePriceToman": 15200
+        },
+        {
+          "id": "snap-bflute",
+          "label": "ته‌قفلی بی‌فلوت",
+          "subLabel": "۳ لایه · B فلوت",
+          "specs": {
+            "grammage": "۵۸۰ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر (فلوت B)",
+            "weightCapacity": "۸ کیلوگرم",
+            "dimensions": "۲۸۰×۲۲۰×۲۸۰",
+            "printType": "فلکسو ۲ رنگ یا لمینت افست",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "چسب یا منگنه بغل + کف قفلی"
+          },
+          "unitBasePriceToman": 21900
+        },
+        {
+          "id": "snap-handle",
+          "label": "ته‌قفلی دسته‌دار",
+          "subLabel": "دسته دایکاتی · B فلوت",
+          "specs": {
+            "grammage": "۶۴۰ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر (فلوت B)",
+            "weightCapacity": "۱۰ کیلوگرم",
+            "dimensions": "۳۰۰×۲۴۰×۳۲۰",
+            "printType": "افست لمینتی + سلفون حرارتی",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "کف قفلی + درب دسته‌دار قفلی"
+          },
+          "unitBasePriceToman": 27800
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "box-mailer",
+      "groupId": "boxes",
+      "groupTitle": "انواع جعبه",
+      "name": "جعبه کیبوردی",
+      "shortSubtitle": "قفل‌دار دوطرفه بدون نیاز به چسب",
+      "technicalCode": "FEFCO 0427",
+      "badgeText": "پرفروش آنباکسینگ و پستی",
+      "image": "drawable://cover_packaging_hero",
+      "diagramType": "mailer",
+      "variantPromptLabel": "سایز و جنس جعبه کیبوردی را انتخاب کنید",
+      "description": "جعبه کیبوردی (لپ‌تاپی / Tuck-Top Mailer) محبوب‌ترین ساختار بسته‌بندی برای فروشگاه‌های اینترنتی، پوشاک، اکسسوری، کتاب و هدایای سازمانی است. دیواره‌های دوجداره در طرفین، مقاومت فشاری فوق‌العاده‌ای بدون یک قطره چسب ایجاد می‌کنند.",
+      "applications": [
+        "بسته‌بندی سفارش‌های فروشگاه‌های آنلاین، پوشاک، شال و کیف و کفش",
+        "پک‌های هدیه سازمانی، کتاب، گجت‌های الکترونیکی و لوازم جانبی موبایل",
+        "بسته‌بندی اشتراک قهوه، دمنوش، عطر و محصولات لوکس دست‌ساز"
+      ],
+      "structuralFeatures": [
+        "مونتاژ ۱۰۰٪ قفلی بدون نیاز به چسب و منگنه با دیواره‌های دوبل کناری",
+        "تجربه آنباکسینگ (Unboxing) بسیار شیک با قابلیت چاپ داخل و بیرون جعبه",
+        "زبانه‌های قفل شونده در جلوی جعبه برای امنیت کامل در ارسال پستی"
+      ],
+      "paperCombinations": [
+        "ورق E-Flute دو رو کرافت طبیعی",
+        "ورق E-Flute سفید لمینتی با چاپ داخل و بیرون",
+        "ورق B-Flute مستحکم برای ابعاد بزرگ"
+      ],
+      "variants": [
+        {
+          "id": "mailer-s",
+          "label": "کیبوردی سایز ۱",
+          "subLabel": "۲۰×۱۵×۶ cm · E فلوت",
+          "specs": {
+            "grammage": "۴۵۰ گرم بر مترمربع",
+            "thickness": "۱.۵ میلی‌متر (فلوت E)",
+            "weightCapacity": "۳ کیلوگرم",
+            "dimensions": "۲۰۰×۱۵۰×۶۰",
+            "printType": "کرافت ساده / چاپ سیلک یا فلکسو",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "دایکات قفلی بدون چسب"
+          },
+          "unitBasePriceToman": 11500
+        },
+        {
+          "id": "mailer-m",
+          "label": "کیبوردی سایز ۲",
+          "subLabel": "۲۸×۲۰×۸ cm · E فلوت",
+          "specs": {
+            "grammage": "۴۸۰ گرم بر مترمربع",
+            "thickness": "۱.۵ میلی‌متر (فلوت E)",
+            "weightCapacity": "۵ کیلوگرم",
+            "dimensions": "۲۸۰×۲۰۰×۸۰",
+            "printType": "سفید یا کرافت + چاپ اختصاصی",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "دایکات قفلی FEFCO 0427"
+          },
+          "unitBasePriceToman": 16200
+        },
+        {
+          "id": "mailer-l",
+          "label": "کیبوردی سایز ۳",
+          "subLabel": "۳۵×۲۵×۱۰ cm · B فلوت",
+          "specs": {
+            "grammage": "۵۵۰ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر (فلوت B)",
+            "weightCapacity": "۸ کیلوگرم",
+            "dimensions": "۳۵۰×۲۵۰×۱۰۰",
+            "printType": "لمینت افست ۴ رنگ + سلفون",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "دیواره دوبل قفلی بدون چسب"
+          },
+          "unitBasePriceToman": 23400
+        },
+        {
+          "id": "mailer-vip",
+          "label": "کیبوردی لمینتی دو رو چاپ",
+          "subLabel": "چاپ داخل و بیرون · E فلوت",
+          "specs": {
+            "grammage": "۵۸۰ گرم بر مترمربع",
+            "thickness": "۱.۷ میلی‌متر (فلوت E لمینتی)",
+            "weightCapacity": "۶ کیلوگرم",
+            "dimensions": "۳۰۰×۲۲۰×۹۰",
+            "printType": "افست بیرونی + چاپ تم داخلی + طلاکوب",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "دایکات قفلی دقیق با گوشه صاف"
+          },
+          "unitBasePriceToman": 29800
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "box-fancy",
+      "groupId": "boxes",
+      "groupTitle": "انواع جعبه",
+      "name": "جعبه فانتزی و کادویی",
+      "shortSubtitle": "پنجره‌دار، کشویی، بالشتی و طلاکوب لوکس",
+      "technicalCode": "CUSTOM DIE-CUT",
+      "badgeText": "لوکس و اختصاصی",
+      "image": "drawable://cat_boxes_showcase",
+      "diagramType": "fancy",
+      "variantPromptLabel": "سبک جعبه فانتزی را انتخاب کنید",
+      "description": "جعبه‌های فانتزی با قالب‌های خلاقانه (کشویی کبریتی، پنجره‌دار طلق‌دار، بالشتی، شش‌ضلعی، دسته‌دار فانتزی) و خدمات تکمیلی چاپ شامل طلاکوب، نقره‌کوب، برجسته‌سازی (امباس) و یووی موضعی برای ارتقای ارزش برند شما طراحی می‌شوند.",
+      "applications": [
+        "بسته‌بندی عطر، ادکلن، جواهرات، ساعت و محصولات آرایشی لوکس",
+        "شکلات دست‌ساز، زعفران، خشکبار صادراتی، عسل و دمنوش‌های ویژه",
+        "هدایای تبلیغاتی سازمانی و بسته‌بندی‌های مناسبتی"
+      ],
+      "structuralFeatures": [
+        "قابلیت نصب طلق شفاف PVC/PET روی پنجره دایکات‌شده برای نمایش محصول",
+        "پشتیبانی کامل از خدمات پس از چاپ: طلاکوب، یووی موضعی، امباس و سلفون مخملی",
+        "طراحی ساختار دو تکه (کشویی یا زیر و رو) با دقت میلی‌متری"
+      ],
+      "paperCombinations": [
+        "مقوای ایندربرد ۳۰۰ و ۳۵۰ گرم",
+        "مقوای کرافت فانتزی + لمینت E-Flute",
+        "مقوای فابریانو و متالایز طلایی/نقره‌ای"
+      ],
+      "variants": [
+        {
+          "id": "fancy-drawer",
+          "label": "فانتزی کشویی (کبریتی)",
+          "subLabel": "دو تکه · ایندربرد / E فلوت",
+          "specs": {
+            "grammage": "۳۵۰ تا ۵۰۰ گرم",
+            "thickness": "۰.۶ تا ۱.۵ میلی‌متر",
+            "weightCapacity": "۲.۵ کیلوگرم",
+            "dimensions": "۲۰۰×۱۲۰×۵۰",
+            "printType": "افست + سلفون مات + طلاکوب",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "غلاف کشویی + سینی داخلی قفلی"
+          },
+          "unitBasePriceToman": 18500
+        },
+        {
+          "id": "fancy-window",
+          "label": "فانتزی پنجره‌دار طلق‌دار",
+          "subLabel": "نصب طلق شفاف · E فلوت",
+          "specs": {
+            "grammage": "۴۸۰ گرم بر مترمربع",
+            "thickness": "۱.۵ میلی‌متر (فلوت E)",
+            "weightCapacity": "۴ کیلوگرم",
+            "dimensions": "۲۲۰×۱۸۰×۸۰",
+            "printType": "افست ۴ رنگ + پنجره طلق PVC",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "دایکات پنجره‌دار + چسب طلق"
+          },
+          "unitBasePriceToman": 21000
+        },
+        {
+          "id": "fancy-telescopic",
+          "label": "زیر و رو (درب و کفی)",
+          "subLabel": "کادویی لوکس · E فلوت",
+          "specs": {
+            "grammage": "۵۲۰ گرم بر مترمربع",
+            "thickness": "۱.۶ میلی‌متر (فلوت E)",
+            "weightCapacity": "۵ کیلوگرم",
+            "dimensions": "۲۶۰×۲۰۰×۹۰",
+            "printType": "سلفون مخملی + یووی موضعی",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "درب و کفی تلسکوپی دوجداره"
+          },
+          "unitBasePriceToman": 25600
+        },
+        {
+          "id": "fancy-gable",
+          "label": "فانتزی دسته‌دار (کیفی)",
+          "subLabel": "دسته یکپارچه · E/B فلوت",
+          "specs": {
+            "grammage": "۵۵۰ گرم بر مترمربع",
+            "thickness": "۲.۵ میلی‌متر",
+            "weightCapacity": "۶ کیلوگرم",
+            "dimensions": "۲۴۰×۱۶۰×۲۰۰",
+            "printType": "افست لمینتی + ورنی براق",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "کف قفلی اتوماتیک + دسته قفل‌شو"
+          },
+          "unitBasePriceToman": 22900
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "box-pharma",
+      "groupId": "boxes",
+      "groupTitle": "انواع جعبه",
+      "name": "جعبه درب دارویی",
+      "shortSubtitle": "دو سر درب دارویی متقارن و نامتقارن",
+      "technicalCode": "FEFCO 0211 / RTE / STE",
+      "badgeText": "پرتیراژ و اقتصادی",
+      "image": "drawable://cat_boxes_showcase",
+      "diagramType": "pharma",
+      "variantPromptLabel": "مدل جعبه درب دارویی را انتخاب کنید",
+      "description": "جعبه درب دارویی در دو تیپ استاندارد Reverse Tuck End (درب‌های خلاف جهت) و Straight Tuck End (درب‌های هم‌جهت) تولید می‌شود. به دلیل شیت‌چینی بهینه با کمترین پرت مقوا و ورق، اقتصادی‌ترین ساختار بسته‌بندی صنعتی است.",
+      "applications": [
+        "بسته‌بندی دارو، مکمل، شربت، کرم، تیوب و محصولات بهداشتی",
+        "لوازم یدکی خودرو، فیلتر، شمع، لنت و قطعات صنعتی سبک",
+        "بسته‌بندی لامپ، شیرآلات، چسب، تیغ و ملزومات اداری"
+      ],
+      "structuralFeatures": [
+        "کمترین میزان دورریز کاغذ در شیت‌بندی قالب دایکات (حداکثر صرفه‌جویی اقتصادی)",
+        "قابلیت افزودن قفل امنیتی (Slit Lock) روی درب بالا و پایین",
+        "مناسب برای دستگاه‌های جعبه پرکن اتوماتیک و نیمه‌اتوماتیک"
+      ],
+      "paperCombinations": [
+        "مقوای پشت‌طوسی ۲۵۰ تا ۳۵۰ گرم",
+        "مقوای ایندربرد بهداشتی ۲۸۰ تا ۳۵۰ گرم",
+        "ورق E-Flute لمینتی برای قطعات سنگین‌تر"
+      ],
+      "variants": [
+        {
+          "id": "pharma-rte-250",
+          "label": "درب دارویی مقوایی",
+          "subLabel": "پشت‌طوسی ۳۰۰ گرم · RTE",
+          "specs": {
+            "grammage": "۳۰۰ گرم بر مترمربع",
+            "thickness": "۰.۴۵ میلی‌متر",
+            "weightCapacity": "۰.۸ کیلوگرم",
+            "dimensions": "۱۰۰×۶۰×۱۴۰",
+            "printType": "افست ۴ رنگ + ورنی ماشینی",
+            "minOrder": "۳٬۰۰۰ عدد",
+            "jointType": "چسب بغل طولی + دو درب دارویی"
+          },
+          "unitBasePriceToman": 4600
+        },
+        {
+          "id": "pharma-ste-inder",
+          "label": "درب هم‌جهت بهداشتی",
+          "subLabel": "ایندربرد ۳۰۰ گرم · STE",
+          "specs": {
+            "grammage": "۳۰۰ گرم بر مترمربع",
+            "thickness": "۰.۵۰ میلی‌متر",
+            "weightCapacity": "۱.۲ کیلوگرم",
+            "dimensions": "۱۲۰×۷۰×۱۶۰",
+            "printType": "افست + سلفون مات + خط بریل/امباس",
+            "minOrder": "۳٬۰۰۰ عدد",
+            "jointType": "چسب بغل + درب هم‌جهت بدون مرز در جلو"
+          },
+          "unitBasePriceToman": 6200
+        },
+        {
+          "id": "pharma-eflute",
+          "label": "درب دارویی ای‌فلوت",
+          "subLabel": "۳ لایه لمینتی · E فلوت",
+          "specs": {
+            "grammage": "۴۸۰ گرم بر مترمربع",
+            "thickness": "۱.۵ میلی‌متر (فلوت E)",
+            "weightCapacity": "۳.۵ کیلوگرم",
+            "dimensions": "۱۶۰×۱۱۰×۲۲۰",
+            "printType": "افست لمینتی ۴ رنگ",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "چسب بغل صنعتی + قفل زبانه درب"
+          },
+          "unitBasePriceToman": 13400
+        },
+        {
+          "id": "pharma-hangtab",
+          "label": "درب دارویی آویزدار",
+          "subLabel": "دارای آویز رگال · یورو هول",
+          "specs": {
+            "grammage": "۳۵۰ تا ۴۸۰ گرم",
+            "thickness": "۰.۵۵ تا ۱.۵ میلی‌متر",
+            "weightCapacity": "۲ کیلوگرم",
+            "dimensions": "۱۴۰×۸۰×۱۹۰",
+            "printType": "افست + سلفون براق مقاوم",
+            "minOrder": "۲٬۰۰۰ عدد",
+            "jointType": "چسب بغل + زبانه آویز پانچ یورو"
+          },
+          "unitBasePriceToman": 9800
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "box-holder",
+      "groupId": "boxes",
+      "groupTitle": "انواع جعبه",
+      "name": "هولدر ",
+      "shortSubtitle": "نگهدارنده داخلی، شانه و هولدر لیوان و بطری",
+      "technicalCode": "FEFCO 0900 / INSERT",
+      "badgeText": "محافظت و تثبیت",
+      "image": "drawable://cat_boxes_showcase",
+      "diagramType": "holder",
+      "variantPromptLabel": "مدل هولدر و نگهدارنده را انتخاب کنید",
+      "description": "انواع هولدر و اینسرت دایکاتی (پارتیشن، مقسم شبکه‌ای، نگهدارنده داخل جعبه و هولدر بیرون‌بر لیوان و بطری) جهت تثبیت کامل محصول، جلوگیری از برخورد ظروف شکستنی و آرایش منظم اقلام داخل بسته‌بندی طراحی می‌شوند.",
+      "applications": [
+        "هولدر دوتایی و چهارتایی لیوان قهوه، نوشیدنی و پک‌های بیرون‌بر کافه و رستوران",
+        "مقسم و نگهدارنده داخلی برای شیشه عطر، ویال دارویی، ظروف عسل و قطعات حساس الکترونیکی",
+        "پارتیشن‌های مشبک ۳ لایه و ۵ لایه برای تفکیک بطری در کارتن مادر"
+      ],
+      "structuralFeatures": [
+        "طراحی دقیق حفره‌ها و زبانه‌های ضربه‌گیر متناسب با فرم هندسی محصول شما",
+        "قابلیت تولید به‌صورت مشبک کشویی یا کفی دایکاتی تاشو",
+        "افزایش چشمگیر مقاومت عمودی کارتن در چیدمان پالت (BCT)"
+      ],
+      "paperCombinations": [
+        "ورق E-Flute کرافت و سفید",
+        "ورق B-Flute و C-Flute برای مقسم کارتن مادر",
+        "مقوای کرافت ۳۰۰ گرم برای گلس‌هولدر"
+      ],
+      "variants": [
+        {
+          "id": "holder-cup-2",
+          "label": "هولدر ۲ و ۴ لیوانی",
+          "subLabel": "کافه و بیرون‌بر · E فلوت",
+          "specs": {
+            "grammage": "۴۴۰ گرم بر مترمربع",
+            "thickness": "۱.۵ میلی‌متر (فلوت E)",
+            "weightCapacity": "۲.۵ کیلوگرم",
+            "dimensions": "۲۲۰×۱۱۰×۵۵",
+            "printType": "کرافت طبیعی / چاپ تک‌رنگ یا افست",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "دایکات قفلی یا دسته‌دار تاشو"
+          },
+          "unitBasePriceToman": 6800
+        },
+        {
+          "id": "holder-insert-custom",
+          "label": "اینسرت نگهدارنده داخلی",
+          "subLabel": "حفره اختصاصی · E/B فلوت",
+          "specs": {
+            "grammage": "۴۶۰ گرم بر مترمربع",
+            "thickness": "۱.۵ تا ۳.۰ میلی‌متر",
+            "weightCapacity": "۴ کیلوگرم",
+            "dimensions": "سفارشی مطابق جعبه",
+            "printType": "سفید، مشکی یا کرافت فانتزی",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "دایکات خط‌تا و قفل نگهدارنده"
+          },
+          "unitBasePriceToman": 5900
+        },
+        {
+          "id": "holder-partition-grid",
+          "label": "مقسم مشبک (پارتیشن)",
+          "subLabel": "۶، ۱۲ و ۲۴ خانه · B/C فلوت",
+          "specs": {
+            "grammage": "۵۲۰ گرم بر مترمربع",
+            "thickness": "۳.۰ تا ۴.۰ میلی‌متر",
+            "weightCapacity": "محافظت تا ۲۰ کیلوگرم",
+            "dimensions": "۴۰۰×۳۰۰×۲۵۰",
+            "printType": "بدون چاپ (ورق صنعتی)",
+            "minOrder": "۵۰۰ ست",
+            "jointType": "شکاف متقاطع (چاک‌دار شبکه‌ای)"
+          },
+          "unitBasePriceToman": 12400
+        },
+        {
+          "id": "holder-bottle-pack",
+          "label": "هولدر دسته‌دار بطری",
+          "subLabel": "پک ۴ و ۶ عددی · B فلوت",
+          "specs": {
+            "grammage": "۵۸۰ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر (فلوت B)",
+            "weightCapacity": "۶ کیلوگرم",
+            "dimensions": "۲۴۰×۱۶۰×۲۲۰",
+            "printType": "افست لمینتی ۴ رنگ",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "کف قفلی + دسته تقویت‌شده دوبل"
+          },
+          "unitBasePriceToman": 18200
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "box-tray",
+      "groupId": "boxes",
+      "groupTitle": "انواع جعبه",
+      "name": "جعبه سینی و کفی",
+      "shortSubtitle": "سینی لبه‌دار، کفی شرینک‌پک و صنایع غذایی",
+      "technicalCode": "FEFCO 0452 / TRAY",
+      "badgeText": "شرینک‌پک و قنادی",
+      "image": "drawable://cat_boxes_showcase",
+      "diagramType": "tray",
+      "variantPromptLabel": "مدل سینی و کفی را انتخاب کنید",
+      "description": "جعبه سینی و کفی (تخت بدون درب یا با لبه‌های دوجداره قفلی) برای بسته‌بندی‌های شرینک‌پک (قوطی، آبمیوه، کنسرو، لبنیات)، صنایع شیرینی و شکلات، فست‌فود و کفی‌های نمایشگاهی در ابعاد متنوع تولید می‌گردد.",
+      "applications": [
+        "کفی شرینک‌پک ماءالشعیر، نوشابه، آبمعدنی، کنسرو و شیشه‌های مربا",
+        "سینی شیرینی، باقلوا، کیک، فینگرفود و محصولات قنادی و نانوایی",
+        "سینی نظم‌دهنده قطعات در خطوط مونتاژ کارخانجات و انبارها"
+      ],
+      "structuralFeatures": [
+        "لبه‌های کوتاه مستحکم با قابلیت تحمل فشار حرارتی دستگاه تونل شرینک",
+        "تولید در دو مدل قفلی بدون چسب (دستی) و چسبی چهارگوش (اتوماتیک)",
+        "امکان استفاده از پوشش بهداشتی یا سلفون در تماس با مواد غذایی"
+      ],
+      "paperCombinations": [
+        "ورق B-Flute و C-Flute مقاوم در برابر رطوبت",
+        "ورق E-Flute سفید بهداشتی قنادی",
+        "ورق ۵ لایه BE برای کفی‌های سنگین صنعتی"
+      ],
+      "variants": [
+        {
+          "id": "tray-shrink-b",
+          "label": "کفی شرینک‌پک صنعتی",
+          "subLabel": "۳ لایه · B/C فلوت",
+          "specs": {
+            "grammage": "۴۸۰ گرم بر مترمربع",
+            "thickness": "۳.۰ تا ۴.۰ میلی‌متر",
+            "weightCapacity": "۱۲ کیلوگرم",
+            "dimensions": "۴۰۰×۲۷۰×۶۵",
+            "printType": "فلکسو ۱ تا ۳ رنگ",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "دایکات لبه‌دار شرینک"
+          },
+          "unitBasePriceToman": 9500
+        },
+        {
+          "id": "tray-pastry-e",
+          "label": "سینی قنادی و غذایی",
+          "subLabel": "سفید بهداشتی · E فلوت",
+          "specs": {
+            "grammage": "۴۵۰ گرم بر مترمربع",
+            "thickness": "۱.۵ میلی‌متر (فلوت E)",
+            "weightCapacity": "۴ کیلوگرم",
+            "dimensions": "۳۰۰×۲۲۰×۵۰",
+            "printType": "افست + سلفون بهداشتی داخل",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "قفل دو طرفه دیواره دوبل"
+          },
+          "unitBasePriceToman": 12800
+        },
+        {
+          "id": "tray-double-wall",
+          "label": "سینی لبه‌دوبل نمایشگاهی",
+          "subLabel": "دیواره تقویتی · B فلوت",
+          "specs": {
+            "grammage": "۵۶۰ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر (فلوت B)",
+            "weightCapacity": "۱۰ کیلوگرم",
+            "dimensions": "۳۵۰×۲۵۰×۸۰",
+            "printType": "افست لمینتی ۴ رنگ",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "دیواره دوبل قفل‌شونده کف"
+          },
+          "unitBasePriceToman": 16400
+        },
+        {
+          "id": "tray-heavy-be",
+          "label": "کفی پالتی ۵ لایه",
+          "subLabel": "فوق‌مقاوم · BE/CB فلوت",
+          "specs": {
+            "grammage": "۷۶۰ گرم بر مترمربع",
+            "thickness": "۴.۵ تا ۷.۰ میلی‌متر",
+            "weightCapacity": "۲۵ کیلوگرم",
+            "dimensions": "۶۰۰×۴۰۰×۱۰۰",
+            "printType": "فلکسو صنعتی ۲ رنگ",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "قفل گوشه یا منگنه صنعتی"
+          },
+          "unitBasePriceToman": 28500
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "carton-rsc",
+      "groupId": "cartons",
+      "groupTitle": "انواع کارتن",
+      "name": "کارتن ۳ لایه و ۵ لایه معمولی (RSC)",
+      "shortSubtitle": "کارتن چاک‌دار آمریکایی در کلیه ابعاد سفارشی",
+      "technicalCode": "FEFCO 0201 / RSC",
+      "badgeText": "استاندارد حمل‌ونقل",
+      "image": "drawable://cat_cartons_showcase",
+      "diagramType": "rsc-carton",
+      "variantPromptLabel": "تعداد لایه و تیپ ورق کارتن معمولی را انتخاب کنید",
+      "description": "کارتن معمولی یا چاک‌دار آمریکایی (Regular Slotted Container) پرکاربردترین کارتن بسته‌بندی در صنایع تولیدی، غذایی، شوینده، نساجی و لجستیک است. در شرکت کارتن محمد، این محصول بدون محدودیت ابعاد و بدون نیاز به هزینه قالب در تیپ‌های ۳ لایه و ۵ لایه تولید می‌شود.",
+      "applications": [
+        "کارتن مادر برای بسته‌بندی نهایی محصولات غذایی، بهداشتی، شوینده و دارویی",
+        "بسته‌بندی لوازم خانگی، قطعات صنعتی، ظروف پلاستیکی و بلورجات",
+        "کارتن‌های اسباب‌کشی، انبارداری، آرشیو اسناد و حمل‌ونقل بین‌شهری"
+      ],
+      "structuralFeatures": [
+        "تولید با دستگاه‌های چاک‌زن و خط‌تازن روتاری بدون نیاز به هزینه ساخت قالب دایکات",
+        "قابلیت اتصال درز کارتن با چسب گرم صنعتی و یا منگنه فلزی مسوار",
+        "چاپ فلکسو تا ۴ رنگ همراه با درج علائم استاندارد حمل، بارکد و مشخصات محصول"
+      ],
+      "paperCombinations": [
+        "۳ لایه اقتصادی: لاینر ایرانی + فلوت + لاینر",
+        "۳ لایه مقاوم: تست‌لاینر + فلوت سمی‌کمیکال + تست",
+        "۵ لایه صادراتی: کرافت وارداتی + فلوت CB/CE + تست‌لاینر"
+      ],
+      "variants": [
+        {
+          "id": "rsc-3ply-b",
+          "label": "۳ لایه معمولی",
+          "subLabel": "فلوت B یا C · استاندارد",
+          "specs": {
+            "grammage": "۴۲۰ تا ۴۸۰ گرم",
+            "thickness": "۳.۰ تا ۴.۰ میلی‌متر",
+            "weightCapacity": "۱۰ تا ۱۵ کیلوگرم",
+            "dimensions": "۴۰۰×۳۰۰×۳۰۰ (یا سفارشی)",
+            "printType": "فلکسو ۱ تا ۳ رنگ",
+            "minOrder": "۳۰۰ عدد",
+            "jointType": "چسب صنعتی یا منگنه"
+          },
+          "unitBasePriceToman": 18500
+        },
+        {
+          "id": "rsc-3ply-white",
+          "label": "۳ لایه رویه سفید",
+          "subLabel": "فلوت C/B · سفید صادراتی",
+          "specs": {
+            "grammage": "۴۸۰ گرم بر مترمربع",
+            "thickness": "۳.۵ میلی‌متر",
+            "weightCapacity": "۱۵ کیلوگرم",
+            "dimensions": "۴۵۰×۳۲۰×۳۰۰",
+            "printType": "فلکسو ۳ رنگ با وضوح بالا",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "چسب گرم اتوماتیک"
+          },
+          "unitBasePriceToman": 22800
+        },
+        {
+          "id": "rsc-5ply-cb",
+          "label": "۵ لایه مقاوم",
+          "subLabel": "فلوت CB · نیمه‌سنگین",
+          "specs": {
+            "grammage": "۶۸۰ تا ۷۵۰ گرم",
+            "thickness": "۷.۰ میلی‌متر (فلوت CB)",
+            "weightCapacity": "۲۵ تا ۳۵ کیلوگرم",
+            "dimensions": "۵۰۰×۴۰۰×۴۰۰",
+            "printType": "فلکسو صنعتی ۲ تا ۴ رنگ",
+            "minOrder": "۳۰۰ عدد",
+            "jointType": "چسب تقویت‌شده یا منگنه مسوار"
+          },
+          "unitBasePriceToman": 34500
+        },
+        {
+          "id": "rsc-5ply-kraft",
+          "label": "۵ لایه کرافت صادراتی",
+          "subLabel": "فلوت CB/BE · فوق‌سنگین",
+          "specs": {
+            "grammage": "۸۵۰ تا ۹۵۰ گرم",
+            "thickness": "۷.۰ میلی‌متر (کرافت وارداتی)",
+            "weightCapacity": "۴۵ کیلوگرم (مقاوم در پالت)",
+            "dimensions": "۶۰۰×۴۰۰×۴۵۰",
+            "printType": "فلکسو یا لمینت اختصاصی",
+            "minOrder": "۳۰۰ عدد",
+            "jointType": "منگنه دوبل صنعتی + چسب"
+          },
+          "unitBasePriceToman": 46000
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "carton-diecut",
+      "groupId": "cartons",
+      "groupTitle": "انواع کارتن",
+      "name": "کارتن ۳ لایه و ۵ لایه دایکاتی",
+      "shortSubtitle": "برش دقیق با قالب اختصاصی و قفل‌های مهندسی",
+      "technicalCode": "FEFCO 0400 / DIE-CUT",
+      "badgeText": "دقت ابعادی میلی‌متری",
+      "image": "drawable://cat_cartons_showcase",
+      "diagramType": "diecut-carton",
+      "variantPromptLabel": "تیپ کارتن دایکاتی را انتخاب کنید",
+      "description": "کارتن‌های دایکاتی ۳ لایه و ۵ لایه به کمک قالب‌های برش فلت و روتاری، امکان ایجاد هرگونه دستگیره حمل، منافذ تهویه، زبانه‌های قفلی، پنجره نمایش و خطوط تا با دقت میلی‌متری را فراهم می‌کنند.",
+      "applications": [
+        "بسته‌بندی قطعات حساس صنعتی، پمپ، الکتروموتور، شیرآلات و لوازم خودرو",
+        "کارتن‌های دسته‌دار و قفل‌دار برای لوازم خانگی کوچک و تجهیزات پزشکی",
+        "پکینگ‌های صادراتی با لمینت افست تمام‌رنگ روی ورق ۳ لایه و ۵ لایه"
+      ],
+      "structuralFeatures": [
+        "برش کاملاً یکدست و دقیق برای خطوط بسته‌بندی اتوماتیک و رباتیک",
+        "امکان تعبیه دستگیره حمل، سوراخ تهویه و قفل‌های بدون چسب",
+        "مقاومت فشاری بالا به لطف ستون‌های دوبل در دیواره‌های جانبی"
+      ],
+      "paperCombinations": [
+        "ورق ۳ لایه B-Flute و E-Flute",
+        "ورق ۵ لایه BE-Flute (میکرو ۵ لایه)",
+        "ورق ۵ لایه CB-Flute و CE-Flute لمینتی"
+      ],
+      "variants": [
+        {
+          "id": "dc-3ply-b",
+          "label": "دایکاتی ۳ لایه صنعتی",
+          "subLabel": "فلوت B · قفلی/دسته‌دار",
+          "specs": {
+            "grammage": "۵۲۰ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر (فلوت B)",
+            "weightCapacity": "۱۲ کیلوگرم",
+            "dimensions": "۳۸۰×۲۸۰×۲۲۰",
+            "printType": "فلکسو ۲ رنگ یا لمینت افست",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "برش قالب دایکات فلت/روتاری"
+          },
+          "unitBasePriceToman": 21500
+        },
+        {
+          "id": "dc-3ply-laminated",
+          "label": "دایکاتی ۳ لایه لمینتی",
+          "subLabel": "چاپ افست ۴ رنگ · B/E فلوت",
+          "specs": {
+            "grammage": "۵۹۰ گرم بر مترمربع",
+            "thickness": "۲.۸ میلی‌متر",
+            "weightCapacity": "۱۴ کیلوگرم",
+            "dimensions": "۴۰۰×۳۰۰×۲۵۰",
+            "printType": "افست ۴ رنگ + سلفون حرارتی",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "دایکات قفلی یا ته‌قفلی"
+          },
+          "unitBasePriceToman": 29800
+        },
+        {
+          "id": "dc-5ply-be",
+          "label": "دایکاتی ۵ لایه ظریف",
+          "subLabel": "فلوت BE · میکرو ۵ لایه",
+          "specs": {
+            "grammage": "۷۶۰ گرم بر مترمربع",
+            "thickness": "۴.۵ میلی‌متر (فلوت BE)",
+            "weightCapacity": "۲۴ کیلوگرم",
+            "dimensions": "۴۵۰×۳۲۰×۲۸۰",
+            "printType": "لمینت افست یا فلکسو دقیق",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "دایکات سنگین صنعتی"
+          },
+          "unitBasePriceToman": 38200
+        },
+        {
+          "id": "dc-5ply-cb",
+          "label": "دایکاتی ۵ لایه سنگین",
+          "subLabel": "فلوت CB/CE · صادراتی",
+          "specs": {
+            "grammage": "۸۴۰ گرم بر مترمربع",
+            "thickness": "۶.۵ میلی‌متر (فلوت CB)",
+            "weightCapacity": "۳۵ کیلوگرم",
+            "dimensions": "۵۵۰×۳۸۰×۳۵۰",
+            "printType": "فلکسو ۳ رنگ + روکش ضدآب",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "دایکات تلسکوپی یا قفل دوبل"
+          },
+          "unitBasePriceToman": 44900
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "carton-postal",
+      "groupId": "cartons",
+      "groupTitle": "انواع کارتن",
+      "name": "کارتن پستی",
+      "shortSubtitle": "سایزبندی استاندارد پستی (سایز ۱ تا ۹) و سفارشی",
+      "technicalCode": "POSTAL STD 1-9",
+      "badgeText": "آماده ارسال و لوگوی اختصاصی",
+      "image": "drawable://cat_cartons_showcase",
+      "diagramType": "postal-carton",
+      "variantPromptLabel": "سایز استاندارد کارتن پستی را انتخاب کنید",
+      "description": "کارتن‌های پستی شرکت کارتن محمد در تمامی سایزهای استاندارد شرکت ملی پست (از سایز ۱ تا ۹) در دو مدل چاک‌دار و کیبوردی دایکاتی تولید می‌شوند. امکان چاپ جدول مشخصات فرستنده و گیرنده یا لوگوی اختصاصی فروشگاه شما فراهم است.",
+      "applications": [
+        "ارسال مرسولات فروشگاه‌های اینترنتی، دیجی‌کالا، باسلام و پیج‌های فروشگاهی",
+        "بسته‌بندی کتاب، لوازم التحریر، قطعات کامپیوتر، موبایل و پوشاک",
+        "ارسال مرسولات پیشتاز، تیپاکس، چاپار و باربری در سراسر کشور"
+      ],
+      "structuralFeatures": [
+        "تولید با ورق ۳ لایه و ۵ لایه استاندارد مقاوم در برابر ضربات حمل‌ونقل پستی",
+        "طراحی خط‌تاهای دقیق برای بسته شدن سریع و کیپ شدن درب‌ها",
+        "قابلیت چاپ لوگوی برند شما به جای طرح عمومی پست در تیراژ اقتصادی"
+      ],
+      "paperCombinations": [
+        "ورق ۳ لایه B-Flute تست‌لاینر (سایز ۱ تا ۴)",
+        "ورق ۳ لایه C-Flute تقویت‌شده (سایز ۵ و ۶)",
+        "ورق ۵ لایه CB-Flute (سایز ۷ تا ۹)"
+      ],
+      "variants": [
+        {
+          "id": "post-s1-2",
+          "label": "پستی سایز ۱ و ۲",
+          "subLabel": "۱۵×۱۰×۱۰ تا ۲۰×۱۵×۱۰ cm",
+          "specs": {
+            "grammage": "۴۴۰ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر (فلوت B)",
+            "weightCapacity": "۳ کیلوگرم",
+            "dimensions": "۲۰۰×۱۵۰×۱۰۰",
+            "printType": "چاپ استاندارد پستی یا اختصاصی",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "دایکاتی کیبوردی یا چاک‌دار"
+          },
+          "unitBasePriceToman": 7400
+        },
+        {
+          "id": "post-s3-4",
+          "label": "پستی سایز ۳ و ۴",
+          "subLabel": "۲۵×۲۰×۱۵ تا ۳۰×۲۰×۲۰ cm",
+          "specs": {
+            "grammage": "۴۷۰ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر (فلوت B/C)",
+            "weightCapacity": "۶ کیلوگرم",
+            "dimensions": "۳۰۰×۲۰۰×۲۰۰",
+            "printType": "چاپ جدول پستی + لوگوی برند",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "چسب بغل اتوماتیک RSC"
+          },
+          "unitBasePriceToman": 12900
+        },
+        {
+          "id": "post-s5-6",
+          "label": "پستی سایز ۵ و ۶",
+          "subLabel": "۳۵×۲۵×۲۰ تا ۴۵×۳۰×۲۵ cm",
+          "specs": {
+            "grammage": "۵۲۰ گرم بر مترمربع",
+            "thickness": "۴.۰ میلی‌متر (فلوت C)",
+            "weightCapacity": "۱۲ کیلوگرم",
+            "dimensions": "۴۵۰×۳۰۰×۲۵۰",
+            "printType": "فلکسو ۱ تا ۲ رنگ اختصاصی",
+            "minOrder": "۳۰۰ عدد",
+            "jointType": "چسب یا منگنه صنعتی"
+          },
+          "unitBasePriceToman": 19600
+        },
+        {
+          "id": "post-s7-9",
+          "label": "پستی سایز ۷ تا ۹ (۵ لایه)",
+          "subLabel": "۵۰×۳۵×۳۰ تا ۶۰×۴۵×۴۰ cm",
+          "specs": {
+            "grammage": "۷۴۰ گرم بر مترمربع",
+            "thickness": "۷.۰ میلی‌متر (۵ لایه CB)",
+            "weightCapacity": "۲۸ کیلوگرم",
+            "dimensions": "۵۵۰×۴۰۰×۳۵۰",
+            "printType": "فلکسو صنعتی مقاوم",
+            "minOrder": "۲۰۰ عدد",
+            "jointType": "منگنه مسوار یا چسب گرم"
+          },
+          "unitBasePriceToman": 32800
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "carton-charcoal",
+      "groupId": "cartons",
+      "groupTitle": "انواع کارتن",
+      "name": "کارتن ذغال",
+      "shortSubtitle": "۵ لایه فوق‌مستحکم با چاپ لمینت، فلکسو و دسته‌دار",
+      "technicalCode": "HEAVY DUTY 5-PLY",
+      "badgeText": "مقاوم در برابر فشار و رطوبت",
+      "image": "drawable://cat_cartons_showcase",
+      "diagramType": "charcoal-carton",
+      "variantPromptLabel": "وزن و مدل کارتن ذغال را انتخاب کنید",
+      "description": "کارتن ذغال نیازمند استحکام ستونی بسیار بالا (جهت چیدمان در انبار و کانتینر) و مقاومت در برابر نفوذ گرد ذغال و رطوبت است. شرکت کارتن محمد انواع کارتن ذغال ۱ تا ۱۰ کیلویی را با ورق ۵ لایه CB و BE در دو مدل فلکسو و لمینتی تولید می‌کند.",
+      "applications": [
+        "بسته‌بندی ذغال فشرده (چینی/پرشده)، ذغال قلیانی، ذغال لیمو و کبابی",
+        "صادرات ذغال به کشورهای حوزه خلیج فارس، عراق، ترکیه و اروپا",
+        "بسته‌بندی بریکت‌های صنعتی و مواد معدنی سنگین"
+      ],
+      "structuralFeatures": [
+        "استفاده از ورق ۵ لایه با فلوت سمی‌کمیکال گرم بالا برای جلوگیری از شکم دادن کارتن",
+        "امکان تولید در مدل زیر و رو (تلسکوپی)، دسته‌دار پلاستیکی یا دایکاتی قفلی",
+        "روکش سلفون حرارتی براق یا مات روی چاپ لمینتی جهت ضدآب شدن سطح بیرونی"
+      ],
+      "paperCombinations": [
+        "۵ لایه CB فلوت کرافت‌دار",
+        "۵ لایه BE فلوت لمینت شده با مقوای پشت‌طوسی ۲۵۰ گرم",
+        "۳ لایه E/B لمینتی برای بسته‌های کوچک ۱ کیلویی"
+      ],
+      "variants": [
+        {
+          "id": "charcoal-1kg",
+          "label": "جعبه ذغال ۱ و ۲ کیلویی",
+          "subLabel": "حبه‌ای / قلیانی · لمینتی",
+          "specs": {
+            "grammage": "۵۶۰ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر (فلوت B لمینتی)",
+            "weightCapacity": "۳ کیلوگرم",
+            "dimensions": "۱۸۰×۱۵۰×۱۶۰",
+            "printType": "افست ۴ رنگ + سلفون براق + دسته",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "دایکات ته‌قفلی دسته‌دار"
+          },
+          "unitBasePriceToman": 17500
+        },
+        {
+          "id": "charcoal-5kg-flexo",
+          "label": "کارتن ذغال ۵ و ۶ کیلویی",
+          "subLabel": "۵ لایه · چاپ فلکسو",
+          "specs": {
+            "grammage": "۷۶۰ گرم بر مترمربع",
+            "thickness": "۷.۰ میلی‌متر (فلوت CB)",
+            "weightCapacity": "۱۲ کیلوگرم (چیدمان ۱۰ ردیف)",
+            "dimensions": "۳۶۰×۲۴۰×۲۴۰",
+            "printType": "فلکسو ۲ یا ۳ رنگ روی سفید/قهوه‌ای",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "منگنه مسوار صنعتی + چسب"
+          },
+          "unitBasePriceToman": 28900
+        },
+        {
+          "id": "charcoal-8kg-lam",
+          "label": "کارتن ذغال ۸ و ۱۰ کیلویی لمینتی",
+          "subLabel": "۵ لایه صادراتی · CB/CE",
+          "specs": {
+            "grammage": "۸۸۰ گرم بر مترمربع",
+            "thickness": "۶.۵ میلی‌متر (۵ لایه لمینتی)",
+            "weightCapacity": "۲۰ کیلوگرم (فوق‌مقاوم)",
+            "dimensions": "۴۲۰×۲۸۰×۲۸۰",
+            "printType": "افست لمینتی تمام‌رنگ + سلفون ضدآب",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "منگنه دوبل یا قفل دایکاتی سنگین"
+          },
+          "unitBasePriceToman": 43500
+        },
+        {
+          "id": "charcoal-telescopic",
+          "label": "کارتن ذغال زیر و رو (تلسکوپی)",
+          "subLabel": "دو تکه ۸ لایه دیواره · صادراتی",
+          "specs": {
+            "grammage": "۹۵۰ گرم مجموع دو تکه",
+            "thickness": "۷.۰ میلی‌متر در دیواره جانبی",
+            "weightCapacity": "۲۵ کیلوگرم در کانتینر",
+            "dimensions": "۴۰۰×۲۷۰×۲۶۰",
+            "printType": "لمینت افست لوکس + طلاکوب برند",
+            "minOrder": "۵۰۰ ست",
+            "jointType": "کفی ۵ لایه + درب تلسکوپی لمینتی"
+          },
+          "unitBasePriceToman": 49800
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "carton-fruit",
+      "groupId": "cartons",
+      "groupTitle": "انواع کارتن",
+      "name": "کارتن میوه و صیفی‌جات (صادراتی و سردخانه‌ای)",
+      "shortSubtitle": "سبدی، تلسکوپی و پنجره‌دار با تهویه استاندارد",
+      "technicalCode": "FEFCO 0320 / AGRI",
+      "badgeText": "مقاوم در رطوبت سردخانه",
+      "image": "drawable://cat_cartons_showcase",
+      "diagramType": "fruit-carton",
+      "variantPromptLabel": "مدل کارتن میوه و صیفی‌جات را انتخاب کنید",
+      "description": "کارتن‌های میوه، صیفی‌جات و محصولات گلخانه‌ای (فلفل دلمه‌ای، گوجه‌فرنگی، کیوی، سیب، انار، مرکبات) با کاغذهای ضدآب (کرافت و وایت‌تاپ) و چسب مقاوم به رطوبت، همراه با حفره‌های گردش هوای مهندسی‌شده برای حفظ تازگی در سردخانه و کانتینر یخچال‌دار تولید می‌شوند.",
+      "applications": [
+        "صادرات صیفی‌جات گلخانه‌ای: فلفل دلمه‌ای رنگی، گوجه‌فرنگی، بادمجان و خیار",
+        "بسته‌بندی میوه‌های سردخانه‌ای: سیب درختی، کیوی، انار، پرتقال و انگور",
+        "سینی‌های میوه تک‌ردیفه و دوردیفه شانه‌دار برای بازارهای روسیه و خلیج فارس"
+      ],
+      "structuralFeatures": [
+        "تعبیه حفره‌های تهویه جانبی و کفی منطبق با جریان هوای کانتینر یخچالی (Reefer)",
+        "ستون‌های مثلثی یا دوبل در چهار گوشه سبد برای تحمل بار پالت تا ۲ تن",
+        "چسب ضدآب نشاسته پلیمری مقاوم در رطوبت نسبی ۸۵٪ سردخانه"
+      ],
+      "paperCombinations": [
+        "کرافت وارداتی ۱۸۰ تا ۲۲۰ گرم + فلوت سمی‌کمیکال ۱۷۵ گرم",
+        "وایت‌تاپ صادراتی + لمینت سلفون",
+        "۵ لایه CB و BE ضدآب"
+      ],
+      "variants": [
+        {
+          "id": "fruit-tray-single",
+          "label": "سبد میوه تک‌ردیفه دایکاتی",
+          "subLabel": "۴ تا ۶ کیلو · کیوی/انار/هلو",
+          "specs": {
+            "grammage": "۷۲۰ گرم بر مترمربع",
+            "thickness": "۴.۵ تا ۷.۰ میلی‌متر (۵ لایه)",
+            "weightCapacity": "۸ کیلوگرم (تحمل پالت عالی)",
+            "dimensions": "۴۰۰×۳۰۰×۱۲۰",
+            "printType": "لمینت افست ۴ رنگ یا فلکسو",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "دایکات ستون‌دار گوشه قفلی"
+          },
+          "unitBasePriceToman": 31500
+        },
+        {
+          "id": "fruit-pepper-5kg",
+          "label": "کارتن فلفل دلمه‌ای و گوجه",
+          "subLabel": "۵ لایه صادراتی روسیه · ۵ کیلویی",
+          "specs": {
+            "grammage": "۸۲۰ گرم بر مترمربع",
+            "thickness": "۷.۰ میلی‌متر (فلوت CB کرافت)",
+            "weightCapacity": "۱۲ کیلوگرم در چیدمان ۱۲ لایه",
+            "dimensions": "۴۰۰×۳۰۰×۲۲۰",
+            "printType": "فلکسو ۳ رنگ یا لمینت ضدآب",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "دایکات تهویه‌دار دسته‌دار"
+          },
+          "unitBasePriceToman": 36800
+        },
+        {
+          "id": "fruit-apple-telescopic",
+          "label": "کارتن تلسکوپی سیب و مرکبات",
+          "subLabel": "زیر و رو ۱۰ تا ۱۸ کیلویی",
+          "specs": {
+            "grammage": "۹۸۰ گرم (کفی ۵ لایه + درب)",
+            "thickness": "۷.۰ میلی‌متر + ۳.۰ میلی‌متر",
+            "weightCapacity": "۲۰ کیلوگرم در سردخانه",
+            "dimensions": "۵۰۰×۳۳۰×۳۰۰",
+            "printType": "افست لمینتی سلفون‌دار یا فلکسو",
+            "minOrder": "۵۰۰ ست",
+            "jointType": "کفی و درب تلسکوپی با منافذ هوا"
+          },
+          "unitBasePriceToman": 52000
+        },
+        {
+          "id": "fruit-pallet-tray",
+          "label": "سبد ۶۰×۴۰ استاندارد یوروپالت",
+          "subLabel": "۵ لایه ستون‌دار · صادراتی",
+          "specs": {
+            "grammage": "۹۲۰ گرم بر مترمربع",
+            "thickness": "۷.۰ میلی‌متر (فلوت CB سنگین)",
+            "weightCapacity": "۱۶ کیلوگرم",
+            "dimensions": "۶۰۰×۴۰۰×۱۶۰",
+            "printType": "فلکسو ۴ رنگ یا لمینت اختصاصی",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "دایکات قفلی با زبانه درگیرشونده پالت"
+          },
+          "unitBasePriceToman": 47500
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "carton-dates",
+      "groupId": "cartons",
+      "groupTitle": "انواع کارتن",
+      "name": "کارتن خرما",
+      "shortSubtitle": "جعبه کودک و کارتن مادر (مضافتی، پیارم، کبکاب، زاهدی)",
+      "technicalCode": "DATE EXPORT SET",
+      "badgeText": "پک مادر و کودک بهداشتی",
+      "image": "drawable://cat_cartons_showcase",
+      "diagramType": "date-carton",
+      "variantPromptLabel": "مدل بسته‌بندی خرما را انتخاب کنید",
+      "description": "شرکت کارتن محمد تولیدکننده تخصصی ست کامل بسته‌بندی خرما شامل جعبه کودک (۵۰۰ تا ۸۰۰ گرمی با پوشش بهداشتی ضدروغن و شیره) و کارتن مادر ۱۲ عددی و ۵ یا ۱۰ کیلویی فله با چاپ صادراتی چندزبانه است.",
+      "applications": [
+        "ست ۱۲ عددی جعبه کودک + کارتن مادر برای خرمای مضافتی بم و سراوان",
+        "جعبه‌های فانتزی و پنجره‌دار برای خرمای پیارم، مجول، ربی و خاصویی",
+        "کارتن‌های ۵ و ۱۰ کیلویی فله و وکیوم برای خرمای زاهدی، کبکاب و شاهانی"
+      ],
+      "structuralFeatures": [
+        "پوشش سلفون بهداشتی داخل جعبه کودک برای جلوگیری از نفوذ شیره و رطوبت خرما به مقوا",
+        "تناسب دقیق ابعاد ۱۲ جعبه کودک داخل کارتن مادر بدون لقی در حمل سردخانه‌ای",
+        "قابلیت چاپ به زبان‌های فارسی، انگلیسی، عربی، روسی و هندی برای بازارهای هدف"
+      ],
+      "paperCombinations": [
+        "جعبه کودک: ایندربرد یا پشت‌طوسی ۳۰۰ تا ۳۵۰ گرم با سلفون داخلی",
+        "کارتن مادر: ۵ لایه CB یا BE کرافت ضدآب",
+        "کارتن ۵ کیلویی تلسکوپی: ۳ یا ۵ لایه لمینتی"
+      ],
+      "variants": [
+        {
+          "id": "date-child-box",
+          "label": "جعبه کودک خرما (۵۰۰-۸۰۰ گرم)",
+          "subLabel": "مقوایی بهداشتی · سلفون داخل",
+          "specs": {
+            "grammage": "۳۰۰ تا ۳۵۰ گرم بر مترمربع",
+            "thickness": "۰.۵۰ میلی‌متر (مقوای بهداشتی)",
+            "weightCapacity": "۰.۹ کیلوگرم",
+            "dimensions": "۱۸۵×۱۱۵×۵۵",
+            "printType": "افست ۴ رنگ + سلفون بهداشتی داخل و بیرون",
+            "minOrder": "۶٬۰۰۰ عدد",
+            "jointType": "دایکات قفلی یک‌تکه یا زیر و رو"
+          },
+          "unitBasePriceToman": 5200
+        },
+        {
+          "id": "date-mother-12",
+          "label": "کارتن مادر ۱۲ عددی مضافتی",
+          "subLabel": "۵ لایه یا ۳ لایه سنگین · صادراتی",
+          "specs": {
+            "grammage": "۶۸۰ گرم بر مترمربع",
+            "thickness": "۴.۵ تا ۷.۰ میلی‌متر (BE / CB)",
+            "weightCapacity": "۱۲ کیلوگرم (۱۲ بسته کودک)",
+            "dimensions": "۳۸۵×۲۴۵×۱۸۰",
+            "printType": "فلکسو ۳ رنگ یا لمینت افست",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "چاک‌دار یا تلسکوپی با حفره تهویه"
+          },
+          "unitBasePriceToman": 27900
+        },
+        {
+          "id": "date-5kg-bulk",
+          "label": "کارتن خرما ۵ و ۱۰ کیلویی فله",
+          "subLabel": "۵ لایه کرافت · زاهدی/کبکاب",
+          "specs": {
+            "grammage": "۷۸۰ گرم بر مترمربع",
+            "thickness": "۷.۰ میلی‌متر (فلوت CB)",
+            "weightCapacity": "۱۲ کیلوگرم",
+            "dimensions": "۳۸۰×۲۶۰×۱۶۰",
+            "printType": "فلکسو یا لمینت صادراتی ضدآب",
+            "minOrder": "۵۰۰ عدد",
+            "jointType": "منگنه مسوار ضدزنگ + چسب ضدآب"
+          },
+          "unitBasePriceToman": 31200
+        },
+        {
+          "id": "date-vip-pyarom",
+          "label": "جعبه لوکس خرما پیارم و مجول",
+          "subLabel": "کشویی / پنجره‌دار · طلاکوب",
+          "specs": {
+            "grammage": "۴۸۰ گرم بر مترمربع",
+            "thickness": "۱.۵ میلی‌متر (E فلوت لمینتی)",
+            "weightCapacity": "۱ تا ۲ کیلوگرم",
+            "dimensions": "۲۴۰×۱۶۰×۴۵",
+            "printType": "افست + سلفون مات + طلاکوب + طلق",
+            "minOrder": "۱٬۰۰۰ عدد",
+            "jointType": "کشویی یا کیبوردی لوکس"
+          },
+          "unitBasePriceToman": 18900
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "sheet-flute-e",
+      "groupId": "sheets",
+      "groupTitle": "انواع ورق کارتن",
+      "name": "ورق کارتن فلوت E (ای‌فلوت / ۳ لایه)",
+      "shortSubtitle": "ضخامت ۱.۵ میلی‌متر · ۹۰ تا ۹۸ کنگره در ۳۰ سانتی‌متر",
+      "technicalCode": "FLUTE E · 1.5mm",
+      "badgeText": "بهترین سطح چاپ و لمینت",
+      "image": "drawable://cat_sheets_flutes",
+      "diagramType": "flute-e",
+      "variantPromptLabel": "ترکیب کاغذ ورق فلوت E را انتخاب کنید",
+      "description": "ورق ۳ لایه ای‌فلوت (E-Flute) ظریف‌ترین کنگره استاندارد در صنعت کارتن‌سازی را دارد. به دلیل فشردگی بالای گام کنگره‌ها، سطح ورق کاملاً صاف و بدون اثر موج (Washboarding) بوده و بهترین گزینه برای لمینت مقوای چاپی و جعبه‌های دایکاتی ظریف است.",
+      "applications": [
+        "تولید جعبه‌های کیبوردی، دارویی، آرایشی، قطعات خودرو و استندهای رومیزی",
+        "لمینت مقوای پشت‌طوسی و ایندربرد چاپ افست شده روی ورق ۲ لایه (سینگل) و ۳ لایه",
+        "جعبه‌های پیتزا، فست‌فود، شیرینی و بسته‌بندی‌های لوکس فروشگاهی"
+      ],
+      "structuralFeatures": [
+        "ضخامت بسیار کم (۱.۵ تا ۱.۸ میلی‌متر) که فضای انبارش بسته‌ها را به حداقل می‌رساند",
+        "مقاومت عالی در برابر لهیدگی سطحی (Flat Crush Test) به علت تراکم بالای کنگره",
+        "برش و خط‌تاپذیری فوق‌العاده تمیز روی دستگاه‌های دایکات فلت و پینگ‌پنگی"
+      ],
+      "paperCombinations": [
+        "دو رو کرافت طبیعی (قهوه‌ای)",
+        "یک رو سفید (وایت‌تاپ) + یک رو قهوه‌ای",
+        "دو رو سفید بهداشتی",
+        "سینگل‌فیس (۲ لایه) ویژه لمینت"
+      ],
+      "variants": [
+        {
+          "id": "eflute-single",
+          "label": "سینگل‌فیس E (۲ لایه)",
+          "subLabel": "ویژه لمینت مقوا · ۱ لاینر + ۱ فلوت",
+          "specs": {
+            "grammage": "۲۳۰ تا ۲۶۰ گرم بر مترمربع",
+            "thickness": "۱.۳ میلی‌متر (۲ لایه)",
+            "weightCapacity": "ECT 3.2 kN/m",
+            "dimensions": "شیت یا رول (عرض تا ۱۴۰ cm)",
+            "printType": "آماده لمینت مقوای افست",
+            "minOrder": "۵۰۰ مترمربع",
+            "jointType": "چسب نشاسته صنعتی با چسبندگی بالا"
+          },
+          "unitBasePriceToman": 24500
+        },
+        {
+          "id": "eflute-liner",
+          "label": "۳ لایه لاینر ایرانی",
+          "subLabel": "لاینر ۱۲۵ + فلوت ۱۱۵ + لاینر ۱۲۵",
+          "specs": {
+            "grammage": "۳۸۰ گرم بر مترمربع",
+            "thickness": "۱.۵ میلی‌متر (فلوت E)",
+            "weightCapacity": "ECT 4.2 kN/m",
+            "dimensions": "برش شیت در ابعاد سفارشی",
+            "printType": "فلکسو، سیلک یا لمینت",
+            "minOrder": "۵۰۰ مترمربع",
+            "jointType": "۳ لایه کنگره ریز (۹۴ کنگره/۳۰cm)"
+          },
+          "unitBasePriceToman": 32000
+        },
+        {
+          "id": "eflute-kraft",
+          "label": "۳ لایه تست و کرافت",
+          "subLabel": "تست‌لاینر ۱۴۰ + سمی ۱۲۵ + تست ۱۲۵",
+          "specs": {
+            "grammage": "۴۱۰ گرم بر مترمربع",
+            "thickness": "۱.۶ میلی‌متر (فلوت E)",
+            "weightCapacity": "ECT 5.1 kN/m",
+            "dimensions": "برش شیت با خط‌تا سفارشی",
+            "printType": "چاپ مستقیم یا لمینت لوکس",
+            "minOrder": "۵۰۰ مترمربع",
+            "jointType": "۳ لایه مقاوم ضد رطوبت"
+          },
+          "unitBasePriceToman": 38500
+        },
+        {
+          "id": "eflute-white",
+          "label": "۳ لایه رویه سفید",
+          "subLabel": "سفید ۱۴۰ + فلوت ۱۲۵ + تست ۱۲۵",
+          "specs": {
+            "grammage": "۴۱۰ گرم بر مترمربع",
+            "thickness": "۱.۶ میلی‌متر (فلوت E)",
+            "weightCapacity": "ECT 5.0 kN/m",
+            "dimensions": "برش شیت دقیق بدون تاب‌برداشتگی",
+            "printType": "سطح سفید عالی برای چاپ مستقیم",
+            "minOrder": "۵۰۰ مترمربع",
+            "jointType": "۳ لایه بهداشتی و فروشگاهی"
+          },
+          "unitBasePriceToman": 42900
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "sheet-flute-b",
+      "groupId": "sheets",
+      "groupTitle": "انواع ورق کارتن",
+      "name": "ورق کارتن فلوت B (بی‌فلوت / ۳ لایه)",
+      "shortSubtitle": "ضخامت ۲.۸ تا ۳.۰ میلی‌متر · ۴۷ تا ۵۳ کنگره در ۳۰ سانتی‌متر",
+      "technicalCode": "FLUTE B · 3.0mm",
+      "badgeText": "پرمصرف‌ترین ورق دایکاتی",
+      "image": "drawable://cat_sheets_flutes",
+      "diagramType": "flute-b",
+      "variantPromptLabel": "ترکیب کاغذ ورق فلوت B را انتخاب کنید",
+      "description": "ورق ۳ لایه بی‌فلوت (B-Flute) استاندارد طلایی برای کارتن‌های دایکاتی، سینی‌های شرینک‌پک، کارتن‌های مواد غذایی و بسته‌بندی‌های نیمه‌سنگین است. تعادل کم‌نظیری بین مقاومت پانچ، کیفیت چاپ فلکسو و دایکات‌پذیری دارد.",
+      "applications": [
+        "کارتن‌های دایکاتی صنعتی، کفی‌های شرینک‌پک و کارتن‌های پستی سایز کوچک و متوسط",
+        "بسته‌بندی کنسروجات، قوطی‌های فلزی، بطری‌ها و قطعات خودرو",
+        "تولید جعبه‌های لمینتی بزرگ برای لوازم خانگی و برقی"
+      ],
+      "structuralFeatures": [
+        "مقاومت بسیار بالا در برابر سوراخ‌شدگی و فشار سطحی (Flat Crush)",
+        "عملکرد عالی روی دستگاه‌های دایکات روتاری، فلت و چاک‌زن بدون ترک خوردن خط‌تا",
+        "اشغال فضای ۳۰٪ کمتر نسبت به ورق سی‌فلوت در پالت‌بندی ورق خام"
+      ],
+      "paperCombinations": [
+        "لاینر/فلوت/لاینر اقتصادی",
+        "تست‌لاینر/سمی‌کمیکال/تست",
+        "کرافت وارداتی/سمی/تست",
+        "وایت‌تاپ سفید/فلوت/تست"
+      ],
+      "variants": [
+        {
+          "id": "bflute-eco",
+          "label": "۳ لایه اقتصادی (ایرانی)",
+          "subLabel": "لاینر ۱۳۰ + فلوت ۱۱۵ + لاینر ۱۲۵",
+          "specs": {
+            "grammage": "۴۰۰ گرم بر مترمربع",
+            "thickness": "۲.۸ میلی‌متر (فلوت B)",
+            "weightCapacity": "ECT 4.4 kN/m",
+            "dimensions": "شیت در ابعاد دلخواه مشتری",
+            "printType": "مناسب فلکسو و لمینت",
+            "minOrder": "۵۰۰ مترمربع",
+            "jointType": "۵۰ کنگره در ۳۰ سانتی‌متر"
+          },
+          "unitBasePriceToman": 31500
+        },
+        {
+          "id": "bflute-test",
+          "label": "۳ لایه تست و سمی‌کمیکال",
+          "subLabel": "تست ۱۵۰ + سمی ۱۲۵ + تست ۱۳۰",
+          "specs": {
+            "grammage": "۴۴۵ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر (فلوت B)",
+            "weightCapacity": "ECT 5.6 kN/m",
+            "dimensions": "برش شیت + خط‌تا اتوماتیک",
+            "printType": "سطح یکدست مناسب چاپ فلکسو ۴ رنگ",
+            "minOrder": "۵۰۰ مترمربع",
+            "jointType": "چسب نشاسته تقویت‌شده"
+          },
+          "unitBasePriceToman": 37800
+        },
+        {
+          "id": "bflute-white",
+          "label": "۳ لایه سفید صادراتی",
+          "subLabel": "وایت‌تاپ ۱۴۰ + سمی ۱۲۵ + تست ۱۳۰",
+          "specs": {
+            "grammage": "۴۳۵ گرم بر مترمربع",
+            "thickness": "۳.۰ میلی‌متر (فلوت B)",
+            "weightCapacity": "ECT 5.5 kN/m",
+            "dimensions": "شیت صاف بدون قوس",
+            "printType": "سفید ممتاز جهت چاپ گرافیکی",
+            "minOrder": "۵۰۰ مترمربع",
+            "jointType": "۳ لایه استاندارد B-Flute"
+          },
+          "unitBasePriceToman": 43200
+        },
+        {
+          "id": "bflute-kraft",
+          "label": "۳ لایه کرافت سنگین",
+          "subLabel": "کرافت ۱۷۵ + سمی ۱۵۰ + تست ۱۵۰",
+          "specs": {
+            "grammage": "۵۲۵ گرم بر مترمربع",
+            "thickness": "۳.۱ میلی‌متر (فلوت B)",
+            "weightCapacity": "ECT 7.2 kN/m",
+            "dimensions": "شیت سفارشی صنعتی",
+            "printType": "مقاوم در سردخانه و رطوبت",
+            "minOrder": "۵۰۰ مترمربع",
+            "jointType": "چسب ضدآب پلیمری"
+          },
+          "unitBasePriceToman": 49500
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "sheet-flute-c",
+      "groupId": "sheets",
+      "groupTitle": "انواع ورق کارتن",
+      "name": "ورق کارتن فلوت C (سی‌فلوت / ۳ لایه)",
+      "shortSubtitle": "ضخامت ۳.۸ تا ۴.۰ میلی‌متر · ۳۹ تا ۴۳ کنگره در ۳۰ سانتی‌متر",
+      "technicalCode": "FLUTE C · 4.0mm",
+      "badgeText": "ضربه‌گیری و مقاومت عمودی",
+      "image": "drawable://cat_sheets_flutes",
+      "diagramType": "flute-c",
+      "variantPromptLabel": "ترکیب کاغذ ورق فلوت C را انتخاب کنید",
+      "description": "ورق ۳ لایه سی‌فلوت (C-Flute) به دلیل ارتفاع بلندتر کنگره‌ها (۴ میلی‌متر)، خاصیت ضربه‌گیری (Cushioning) و مقاومت فشاری عمودی (ECT / BCT) بالاتری نسبت به فلوت B دارد و انتخاب اول برای کارتن‌های چاک‌دار آمریکایی (RSC) و انبارش پالتی است.",
+      "applications": [
+        "کارتن‌های ۳ لایه معمولی (چاک‌دار) برای حمل‌ونقل و چیدمان روی هم در انبار",
+        "بسته‌بندی ظروف شکستنی، شیشه، بلور، سرامیک و لوازم خانگی",
+        "کارتن‌های مواد غذایی، حبوبات، ماکارونی، چیپس و پفک و محصولات حجیم"
+      ],
+      "structuralFeatures": [
+        "ارتفاع کنگره ۴ میلی‌متری که مانند ضربه‌گیر فنری از محصول داخل کارتن محافظت می‌کند",
+        "تحمل بار عمودی (Stacking Strength) حدود ۱۵٪ بیشتر از ورق B-Flute هم‌وزن",
+        "ایده‌آل برای تولید کارتن‌های سایز متوسط و بزرگ چاک‌دار"
+      ],
+      "paperCombinations": [
+        "لاینر/فلوت/لاینر استاندارد",
+        "تست‌لاینر/سمی/تست",
+        "وایت‌تاپ سفید/سمی/تست",
+        "کرافت وارداتی/سمی ۱۷۵/کرافت"
+      ],
+      "variants": [
+        {
+          "id": "cflute-std",
+          "label": "۳ لایه استاندارد",
+          "subLabel": "لاینر ۱۳۰ + فلوت ۱۲۵ + لاینر ۱۳۰",
+          "specs": {
+            "grammage": "۴۲۵ گرم بر مترمربع",
+            "thickness": "۳.۸ میلی‌متر (فلوت C)",
+            "weightCapacity": "ECT 4.8 kN/m",
+            "dimensions": "شیت در ابعاد سفارشی کارتن",
+            "printType": "چاپ فلکسو ۱ تا ۴ رنگ",
+            "minOrder": "۵۰۰ مترمربع",
+            "jointType": "۴۱ کنگره در ۳۰ سانتی‌متر"
+          },
+          "unitBasePriceToman": 32500
+        },
+        {
+          "id": "cflute-test",
+          "label": "۳ لایه تست تقویت‌شده",
+          "subLabel": "تست ۱۵۰ + سمی ۱۴۰ + تست ۱۴۰",
+          "specs": {
+            "grammage": "۴۷۵ گرم بر مترمربع",
+            "thickness": "۴.۰ میلی‌متر (فلوت C)",
+            "weightCapacity": "ECT 6.1 kN/m",
+            "dimensions": "برش و خط‌تا با دقت بالا",
+            "printType": "فلکسو صنعتی با جذب مرکب عالی",
+            "minOrder": "۵۰۰ مترمربع",
+            "jointType": "۳ لایه کنگره متوسط ضربه‌گیر"
+          },
+          "unitBasePriceToman": 38900
+        },
+        {
+          "id": "cflute-white",
+          "label": "۳ لایه سفید (وایت‌تاپ)",
+          "subLabel": "سفید ۱۵۰ + سمی ۱۴۰ + تست ۱۳۰",
+          "specs": {
+            "grammage": "۴۶۵ گرم بر مترمربع",
+            "thickness": "۴.۰ میلی‌متر (فلوت C)",
+            "weightCapacity": "ECT 5.9 kN/m",
+            "dimensions": "شیت آماده چاپ و دایکات",
+            "printType": "رویه سفید یکدست صادراتی",
+            "minOrder": "۵۰۰ مترمربع",
+            "jointType": "چسب نشاسته صنعتی"
+          },
+          "unitBasePriceToman": 44200
+        },
+        {
+          "id": "cflute-kraft",
+          "label": "۳ لایه کرافت سنگین",
+          "subLabel": "کرافت ۱۷۵ + سمی ۱۷۵ + کرافت ۱۶۰",
+          "specs": {
+            "grammage": "۵۶۵ گرم بر مترمربع",
+            "thickness": "۴.۱ میلی‌متر (فلوت C)",
+            "weightCapacity": "ECT 7.8 kN/m",
+            "dimensions": "شیت سفارشی صادراتی",
+            "printType": "فلکسو روی کرافت طبیعی",
+            "minOrder": "۵۰۰ مترمربع",
+            "jointType": "مقاوم در برابر رطوبت و فشار پالت"
+          },
+          "unitBasePriceToman": 51800
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "sheet-flute-cb",
+      "groupId": "sheets",
+      "groupTitle": "انواع ورق کارتن",
+      "name": "ورق ۵ لایه فلوت CB (سی‌بی فلوت)",
+      "shortSubtitle": "ضخامت ۶.۸ تا ۷.۰ میلی‌متر · ترکیب طلایی استحکام و ضربه‌گیری",
+      "technicalCode": "FLUTE CB · 7.0mm",
+      "badgeText": "پرفروش‌ترین ورق ۵ لایه سنگین",
+      "image": "drawable://cat_sheets_flutes",
+      "diagramType": "flute-cb",
+      "variantPromptLabel": "ترکیب کاغذ ورق ۵ لایه فلوت CB را انتخاب کنید",
+      "description": "ورق ۵ لایه سی‌بی فلوت (CB Double-Wall) از ترکیب یک لایه فلوت C (ضربه‌گیر و مقاوم عمودی) و یک لایه فلوت B (مقاوم در برابر سوراخ‌شدگی و صاف برای چاپ) تشکیل شده است. مستحکم‌ترین و پرکاربردترین ورق ۵ لایه برای بارهای سنگین، صادرات، ذغال و میوه است.",
+      "applications": [
+        "کارتن‌های ۵ لایه سنگین صادراتی، ذغال، میوه و صیفی‌جات، خرما و خشکبار",
+        "بسته‌بندی لوازم خانگی بزرگ (اجاق گاز، هود، سینک، پکیج، رادیاتور)",
+        "کارتن‌های صنعتی قطعات خودرو، کاشی و سرامیک، چینی بهداشتی و مواد شیمیایی"
+      ],
+      "structuralFeatures": [
+        "ضخامت ۷ میلی‌متری واقعی با مقاومت عالی در برابر کمانش و لهیدگی در پالت",
+        "سمت فلوت B در بیرون قرار می‌گیرد تا کیفیت چاپ فلکسو یا لمینت به حداکثر برسد",
+        "سمت فلوت C در داخل قرار می‌گیرد تا نقش ضربه‌گیر برای کالای سنگین را ایفا کند"
+      ],
+      "paperCombinations": [
+        "۵ لایه استاندارد ایرانی",
+        "۵ لایه تست‌لاینر و سمی‌کمیکال",
+        "۵ لایه رویه سفید صادراتی",
+        "۵ لایه کرافت وارداتی ضدآب"
+      ],
+      "variants": [
+        {
+          "id": "cb-standard",
+          "label": "۵ لایه استاندارد CB",
+          "subLabel": "لاینر و فلوت ایرانی · ۶۵۰ گرم",
+          "specs": {
+            "grammage": "۶۵۰ گرم بر مترمربع",
+            "thickness": "۶.۸ میلی‌متر (فلوت C+B)",
+            "weightCapacity": "ECT 7.5 kN/m (تا ۲۵ کیلو)",
+            "dimensions": "برش شیت و خط‌تا تا عرض ۲۲۰ cm",
+            "printType": "فلکسو یا لمینت",
+            "minOrder": "۳۰۰ مترمربع",
+            "jointType": "۵ لایه (۳ لاینر + فلوت C + فلوت B)"
+          },
+          "unitBasePriceToman": 54000
+        },
+        {
+          "id": "cb-test-semi",
+          "label": "۵ لایه تست و سمی‌کمیکال",
+          "subLabel": "تست ۱۵۰ + دو فلوت سمی ۱۴۰ · ۷۴۰ گرم",
+          "specs": {
+            "grammage": "۷۴۰ گرم بر مترمربع",
+            "thickness": "۷.۰ میلی‌متر (فلوت CB)",
+            "weightCapacity": "ECT 9.2 kN/m (تا ۳۵ کیلو)",
+            "dimensions": "شیت دقیق بدون تاب‌برداشتگی",
+            "printType": "مناسب کارتن ذغال، صنعتی و صادراتی",
+            "minOrder": "۳۰۰ مترمربع",
+            "jointType": "چسب نشاسته صنعتی پرقدرت"
+          },
+          "unitBasePriceToman": 63500
+        },
+        {
+          "id": "cb-white-export",
+          "label": "۵ لایه رویه سفید CB",
+          "subLabel": "وایت‌تاپ ۱۶۰ + فلوت سمی + تست",
+          "specs": {
+            "grammage": "۷۶۰ گرم بر مترمربع",
+            "thickness": "۷.۰ میلی‌متر (فلوت CB)",
+            "weightCapacity": "ECT 9.5 kN/m (صادراتی)",
+            "dimensions": "شیت آماده چاپ فلکسو چندرنگ",
+            "printType": "رویه سفید درخشان صادراتی",
+            "minOrder": "۳۰۰ مترمربع",
+            "jointType": "۵ لایه استاندارد CB"
+          },
+          "unitBasePriceToman": 71000
+        },
+        {
+          "id": "cb-kraft-heavy",
+          "label": "۵ لایه کرافت سردخانه‌ای",
+          "subLabel": "کرافت ۲۰۰ + دو فلوت سمی ۱۷۵ + کرافت",
+          "specs": {
+            "grammage": "۹۲۰ گرم بر مترمربع",
+            "thickness": "۷.۲ میلی‌متر (فلوت CB سنگین)",
+            "weightCapacity": "ECT 12.8 kN/m (تا ۵۰ کیلو)",
+            "dimensions": "شیت سفارشی میوه و صنعت سنگین",
+            "printType": "مقاوم در رطوبت سردخانه و کانتینر",
+            "minOrder": "۳۰۰ مترمربع",
+            "jointType": "چسب ضدآب رزین‌دار"
+          },
+          "unitBasePriceToman": 84000
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "sheet-flute-ce",
+      "groupId": "sheets",
+      "groupTitle": "انواع ورق کارتن",
+      "name": "ورق ۵ لایه فلوت CE (سی‌ای فلوت)",
+      "shortSubtitle": "ضخامت ۵.۳ تا ۵.۵ میلی‌متر · ضربه‌گیری C همراه با سطح ظریف E",
+      "technicalCode": "FLUTE CE · 5.5mm",
+      "badgeText": "ویژه لمینت و چاپ مستقیم ۵ لایه",
+      "image": "drawable://cat_sheets_flutes",
+      "diagramType": "flute-ce",
+      "variantPromptLabel": "ترکیب کاغذ ورق ۵ لایه فلوت CE را انتخاب کنید",
+      "description": "ورق ۵ لایه سی‌ای فلوت (CE Double-Wall) یک ساختار هوشمندانه است: لایه بیرونی فلوت E سطحی کاملاً صاف و بی‌نقص برای چاپ مستقیم یا لمینت پوستر افست فراهم می‌کند، درحالی‌که لایه درونی فلوت C ضربه‌گیری و تحمل بار یک کارتن ۵ لایه کامل را تضمین می‌نماید.",
+      "applications": [
+        "کارتن‌های ۵ لایه لمینتی برای لوازم خانگی، زودپز، جاروبرقی و سینمای خانگی",
+        "کارتن‌های صادراتی با چاپ گرافیکی ظریف که نیازمند مقاومت ضربه‌ای بالا هستند",
+        "بسته‌بندی ابزارآلات برقی، دریل، فرز و تجهیزات صنعتی صادراتی"
+      ],
+      "structuralFeatures": [
+        "حذف کامل پدیده موج‌افتادگی (Washboarding) روی پوستر لمینت شده به لطف لایه بیرونی E-Flute",
+        "کاهش ۲۰ درصدی حجم انبارش نسبت به ورق CB با حفظ مقاومت ضربه‌گیری فلوت C",
+        "خط‌تاپذیری و دایکات بسیار تمیز در زوایای ۹۰ درجه"
+      ],
+      "paperCombinations": [
+        "۵ لایه CE ویژه لمینت (چهارلایه + پوستر)",
+        "۵ لایه CE تست‌لاینر",
+        "۵ لایه CE رویه سفید گلاسه/وایت‌تاپ"
+      ],
+      "variants": [
+        {
+          "id": "ce-laminating",
+          "label": "۵ لایه CE ویژه لمینت",
+          "subLabel": "تست و فلوت استاندارد · ۶۴۰ گرم",
+          "specs": {
+            "grammage": "۶۴۰ گرم بر مترمربع",
+            "thickness": "۵.۴ میلی‌متر (فلوت C+E)",
+            "weightCapacity": "ECT 7.4 kN/m",
+            "dimensions": "شیت برش‌خورده دقیق برای لمینت",
+            "printType": "سطح بیرونی E-Flute کاملاً مسطح",
+            "minOrder": "۳۰۰ مترمربع",
+            "jointType": "۵ لایه ترکیبی C و E"
+          },
+          "unitBasePriceToman": 55500
+        },
+        {
+          "id": "ce-test-heavy",
+          "label": "۵ لایه CE تست و سمی",
+          "subLabel": "تست ۱۵۰ + دو فلوت سمی ۱۳۰ · ۷۲۰ گرم",
+          "specs": {
+            "grammage": "۷۲۰ گرم بر مترمربع",
+            "thickness": "۵.۵ میلی‌متر (فلوت CE)",
+            "weightCapacity": "ECT 8.9 kN/m",
+            "dimensions": "شیت سفارشی دایکاتی و چاک‌دار",
+            "printType": "چاپ فلکسو با ترام ظریف یا لمینت",
+            "minOrder": "۳۰۰ مترمربع",
+            "jointType": "چسب نشاسته صنعتی"
+          },
+          "unitBasePriceToman": 64200
+        },
+        {
+          "id": "ce-white-top",
+          "label": "۵ لایه CE رویه سفید",
+          "subLabel": "وایت‌تاپ ۱۵۰ رویه E + فلوت C داخلی",
+          "specs": {
+            "grammage": "۷۴۰ گرم بر مترمربع",
+            "thickness": "۵.۵ میلی‌متر (فلوت CE)",
+            "weightCapacity": "ECT 9.1 kN/m",
+            "dimensions": "شیت بدون قوس ویژه چاپ حساس",
+            "printType": "چاپ مستقیم ۴ رنگ با کیفیت عالی",
+            "minOrder": "۳۰۰ مترمربع",
+            "jointType": "۵ لایه ممتاز صادراتی"
+          },
+          "unitBasePriceToman": 72500
+        },
+        {
+          "id": "ce-kraft-pro",
+          "label": "۵ لایه CE کرافت صادراتی",
+          "subLabel": "کرافت ۱۷۵ + دو فلوت سمی ۱۵۰",
+          "specs": {
+            "grammage": "۸۳۰ گرم بر مترمربع",
+            "thickness": "۵.۶ میلی‌متر (فلوت CE)",
+            "weightCapacity": "ECT 11.2 kN/m",
+            "dimensions": "شیت سفارشی صنعتی",
+            "printType": "لمینت افست یا چاپ روی کرافت",
+            "minOrder": "۳۰۰ مترمربع",
+            "jointType": "چسب ضدآب مقاوم"
+          },
+          "unitBasePriceToman": 79800
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    },
+    {
+      "id": "sheet-flute-be",
+      "groupId": "sheets",
+      "groupTitle": "انواع ورق کارتن",
+      "name": "ورق ۵ لایه فلوت BE (بی‌ای فلوت / میکرو ۵ لایه)",
+      "shortSubtitle": "ضخامت ۴.۳ تا ۴.۵ میلی‌متر · ۵ لایه فشرده با مقاومت فوق‌العاده",
+      "technicalCode": "FLUTE BE · 4.5mm",
+      "badgeText": "میکرو ۵ لایه دایکاتی",
+      "image": "drawable://cat_sheets_flutes",
+      "diagramType": "flute-be",
+      "variantPromptLabel": "ترکیب کاغذ ورق ۵ لایه فلوت BE را انتخاب کنید",
+      "description": "ورق ۵ لایه بی‌ای فلوت (BE Micro Double-Wall) نسل مدرن ورق‌های ۵ لایه است. با ترکیب دو فلوت ریز B و E، ضخامت ورق تنها ۴.۵ میلی‌متر (معادل یک ورق ۳ لایه C) است اما استحکام، مقاومت پانچ و تحمل وزن یک ورق ۵ لایه واقعی را ارائه می‌دهد و روی ظریف‌ترین قالب‌های دایکات بدون ترک‌خوردگی اجرا می‌شود.",
+      "applications": [
+        "جعبه‌های دایکاتی ۵ لایه برای قطعات سنگین خودرو، شیرآلات، ابزار و یراق‌آلات",
+        "جعبه و کارتن مادر خرما، خشکبار، زعفران، عسل و بطری‌های شیشه‌ای صادراتی",
+        "استندهای فروشگاهی طبقاتی و جعبه‌های لاک‌باتم یا کیبوردی سایز بزرگ"
+      ],
+      "structuralFeatures": [
+        "ضخامت کم (۴.۵ میلی‌متر) با تراکم الیاف بسیار بالا و مقاومت فوق‌العاده در برابر لهیدگی",
+        "بهترین ورق ۵ لایه برای قالب‌های دایکات پیچیده، قفلی و لاک‌باتم",
+        "صرفه‌جویی ۳۵ درصدی در فضای انبار و کانتینر نسبت به ورق ۵ لایه CB"
+      ],
+      "paperCombinations": [
+        "۵ لایه BE استاندارد دایکاتی",
+        "۵ لایه BE تست و سمی‌کمیکال",
+        "۵ لایه BE رویه سفید بهداشتی",
+        "۵ لایه BE کرافت وارداتی"
+      ],
+      "variants": [
+        {
+          "id": "be-diecut-std",
+          "label": "۵ لایه BE دایکاتی استاندارد",
+          "subLabel": "لاینر و فلوت ایرانی · ۶۴۰ گرم",
+          "specs": {
+            "grammage": "۶۴۰ گرم بر مترمربع",
+            "thickness": "۴.۳ میلی‌متر (فلوت B+E)",
+            "weightCapacity": "ECT 7.8 kN/m",
+            "dimensions": "شیت دقیق ویژه قالب دایکات",
+            "printType": "لمینت افست یا فلکسو ظریف",
+            "minOrder": "۳۰۰ مترمربع",
+            "jointType": "۵ لایه فشرده میکرو (B+E)"
+          },
+          "unitBasePriceToman": 55000
+        },
+        {
+          "id": "be-test-semi",
+          "label": "۵ لایه BE تست و سمی",
+          "subLabel": "تست ۱۵۰ + دو فلوت سمی ۱۳۰ · ۷۳۰ گرم",
+          "specs": {
+            "grammage": "۷۳۰ گرم بر مترمربع",
+            "thickness": "۴.۵ میلی‌متر (فلوت BE)",
+            "weightCapacity": "ECT 9.4 kN/m",
+            "dimensions": "برش شیت بدون ذره‌ای انحنا",
+            "printType": "ایده‌آل برای لمینت و دایکات سنگین",
+            "minOrder": "۳۰۰ مترمربع",
+            "jointType": "تراکم کنگره بالا (۵۰ + ۹۴ کنگره)"
+          },
+          "unitBasePriceToman": 64800
+        },
+        {
+          "id": "be-white-pro",
+          "label": "۵ لایه BE رویه سفید",
+          "subLabel": "وایت‌تاپ ۱۵۰ + سمی + تست",
+          "specs": {
+            "grammage": "۷۴۵ گرم بر مترمربع",
+            "thickness": "۴.۵ میلی‌متر (فلوت BE)",
+            "weightCapacity": "ECT 9.5 kN/m",
+            "dimensions": "شیت آماده دایکات و چاپ",
+            "printType": "رویه سفید صاف بدون رد کنگره",
+            "minOrder": "۳۰۰ مترمربع",
+            "jointType": "۵ لایه بهداشتی و صنعتی"
+          },
+          "unitBasePriceToman": 73200
+        },
+        {
+          "id": "be-kraft-export",
+          "label": "۵ لایه BE کرافت وارداتی",
+          "subLabel": "کرافت ۱۷۵ + دو فلوت سمی ۱۵۰",
+          "specs": {
+            "grammage": "۸۵۰ گرم بر مترمربع",
+            "thickness": "۴.۶ میلی‌متر (فلوت BE)",
+            "weightCapacity": "ECT 11.8 kN/m",
+            "dimensions": "شیت صادراتی فوق‌فشرده",
+            "printType": "چاپ مستقیم یا لمینت صادراتی",
+            "minOrder": "۳۰۰ مترمربع",
+            "jointType": "چسب ضدآب با استحکام کششی بالا"
+          },
+          "unitBasePriceToman": 81500
+        }
+      ],
+      "messengers": {
+        "whatsapp": false,
+        "rubika": true,
+        "eitaa": true
+      }
+    }
+  ],
+  "awards": [
+    {
+      "year": "۱۳۹۵",
+      "title": "واحد نمونه صنعتی استان خوزستان",
+      "image": "drawable://award_1395"
+    },
+    {
+      "year": "۱۳۹۶",
+      "title": "واحد نمونه صنعتی استان خوزستان",
+      "image": "drawable://award_1396"
+    },
+    {
+      "year": "۱۳۹۷",
+      "title": "واحد نمونه صنعتی استان خوزستان",
+      "image": "drawable://award_1397"
+    },
+    {
+      "year": "۱۳۹۸",
+      "title": "واحد نمونه صنعتی استان خوزستان",
+      "image": "drawable://award_1398"
+    }
+  ],
+  "departments": [
+    {
+      "unit": "فروش",
+      "mobile": "۰۹۳۹۶۴۱۰۲۷۶",
+      "mobileTel": "09396410276",
+      "ext": "۱۰۴"
+    },
+    {
+      "unit": "تدارکات",
+      "mobile": "۰۹۰۵۰۹۷۶۷۸۴",
+      "mobileTel": "09050976784",
+      "ext": "۱۳۶"
+    },
+    {
+      "unit": "طراحی",
+      "mobile": "۰۹۰۵۰۹۷۶۷۸۱",
+      "mobileTel": "09050976781",
+      "ext": "۱۰۵"
+    },
+    {
+      "unit": "مالی",
+      "mobile": "۰۹۰۵۰۹۷۶۷۸۵",
+      "mobileTel": "09050976785",
+      "ext": "۱۰۲"
+    },
+    {
+      "unit": "منابع انسانی",
+      "mobile": "۰۹۰۵۰۹۷۶۷۸۶",
+      "mobileTel": "09050976786",
+      "ext": "۱۰۶"
+    },
+    {
+      "unit": "خرید آخال",
+      "mobile": "۰۹۰۲۰۱۰۶۸۵۳",
+      "mobileTel": "09020106853",
+      "ext": "۱۳۶"
+    }
+  ],
+  "adminPassword": "1234"
+}
